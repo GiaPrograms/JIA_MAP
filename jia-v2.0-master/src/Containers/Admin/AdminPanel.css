@@ -1,0 +1,31 @@
+.admin-container{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(245, 245, 245);
+}
+
+.admin-body{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.title-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 2rem 2rem 0;
+}
+.title-container h1{
+  margin-right: 1.2rem;
+}
+.download-icon{
+  transform: scale(1.4);
+}
+
+.download-icon.disabled{
+  fill: #CCC;
+}
+.disabled:hover{
+  fill: var(--gray);
+  cursor: pointer;  
+}

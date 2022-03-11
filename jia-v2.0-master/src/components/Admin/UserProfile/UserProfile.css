@@ -1,0 +1,183 @@
+h3 {
+  color: var(--primary-colour);
+}
+
+.padding-class h5{
+  margin-top: 2rem;
+}
+.padding-class li{
+  margin-bottom: 0.5rem;
+}
+
+.user-card-header{
+  width: 100%;
+  color: #FFF;
+  padding: 1.25rem 2rem 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.user-card-header h1{
+  color: var(--primary-colour);
+  margin-right: 1rem;
+}
+
+.back-button-container{
+  margin-left: auto;
+}
+
+.top-btn{
+  margin-left: auto;
+}
+
+.back-button-container.bottom-btn{
+  margin: 0 1.5rem 2rem auto;
+}
+
+#close-card{
+  cursor: pointer;
+}
+
+.user-card-body{
+  padding: 1.5rem;
+  padding-top: 0;
+}
+
+.user-card-body > div{
+  margin: 1.5rem 0;
+}
+
+.spacer{
+  margin-top: 1rem;
+}
+
+.log-container{
+  background-color: #FFF;
+}
+
+.table-header,
+.log-row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.log-row:hover{
+  cursor: pointer;
+  background-color: var(--light);
+}
+
+
+.table-header > p{
+  flex-basis: 18%;
+  padding: 1rem 0 0.25rem;
+}
+
+.table-header > span{
+  flex-basis: 3%;
+}
+
+.log-row > p{
+  flex-basis: 18%;
+  padding: 1rem 0 0.25rem;
+}
+
+.log-row > span{
+  flex-basis: 3%;
+}
+.log-container{
+  border-radius: 12px;
+  box-shadow: 0px 0px 14px rgba(0,0,0,0.16);
+}
+.log-title{
+  background-color: var(--primary-colour);
+  padding: 1rem;
+  color: #FFF;
+  border-radius: 12px;
+}
+.log-content{
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.log-content a {
+ margin-left: auto;
+ margin-right: 1rem;
+}
+.log-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+.log-nav{
+  font-weight: 600;
+  cursor: pointer;
+  color: #F15A2B;
+}
+
+.log-nav p:first-child{
+  margin-right: 2rem;
+}
+.log-nav p:first-child::before{
+  content: '< ';
+}
+.log-nav p:last-child:after{
+  content: ' >';
+}
+.disabled{
+  color: #555;
+}
+
+.default{
+  transform: rotate(0deg);
+  transition: all 200ms linear;
+}
+.default.rotate {
+  transform: rotate(-90deg);
+  transition: all 100ms linear;
+}
+
+.row-description{
+  margin: 1.5rem 2.5rem;
+}
+
+.row-description h5{
+  margin-bottom: 1rem;
+}
+
+.check{
+  color: green;
+}
+.clear{
+  color: red;
+}
+.row-description span{
+  display: flex;
+  flex-direction: row-reverse;
+}
+.row-description h3 {
+  margin-top: 1.5rem;
+}
+.row-description .list{
+  display: inline;
+  color: #000
+}
+.collapse-icon {
+  background-color: #F15A2B;
+  color: white;
+  transform: scale(1.8);
+  border-radius: 50%;
+  margin: 2rem 1rem 0.5rem;
+  cursor: pointer;
+}
+@media (min-width: 660px) {
+
+}
+
+@media (min-width: 768px) {
+  .user-card-header{
+    margin: auto 0;
+  }
+}

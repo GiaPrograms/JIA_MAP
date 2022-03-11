@@ -1,0 +1,17 @@
+.card-footer-green{
+  background-color: #81be33 !important;
+  object-fit: cover;
+  text-align: center;
+}
+
+.card-footer-yellow{
+  background-color: #FCB41A !important;
+  object-fit: cover;
+  text-align: center;
+}
+
+.card-footer-red{
+  background-color: #ff615d !important;
+  object-fit: cover;
+  text-align: center;
+}

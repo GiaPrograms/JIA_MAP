@@ -1,0 +1,12 @@
+.purpose-item-container{
+  box-sizing: border-box;
+  margin: 0.5rem 0;
+}
+
+.purpose-item{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 2rem;
+}

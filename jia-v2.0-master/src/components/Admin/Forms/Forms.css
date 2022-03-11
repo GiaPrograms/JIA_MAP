@@ -1,0 +1,196 @@
+form{
+  width: 100%;
+  margin: 0;
+}
+form div{
+  margin: 0;
+}
+
+.form-container .form-row:first-child{
+  margin-top: 1.5rem;
+}
+
+.form-container h3 {
+  margin-top: 1.5rem;
+}
+.form-row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.form-row.align-start{
+  justify-content: start;
+}
+.align-start>.form-field-container{
+  margin-right: 2rem;
+}
+.form-field-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-bottom: 2rem;
+}
+.field-row{
+  flex-direction: row;
+  align-items: center;
+}
+.fill-width{
+  flex: 1 0 auto;
+  /* margin-right: 2rem; */
+}
+.form-dialog-title{
+  background-color: var(--primary-colour);
+}
+.form-dialog-title h2{
+  color: white;
+}
+
+.MuiRating-root.form-smiley{
+  width: 500px;
+  display: block;
+}
+
+label.radio-space{
+  margin-right: 2.5rem;
+}
+form .MuiRadio-colorSecondary.Mui-checked{
+  color: var(--secondary-colour);
+}
+
+.form-field-container h4{
+  margin-top: 1rem;
+}
+
+.form-field-container label{
+  display: flex;
+  position: relative;
+  left: 10px;
+}
+
+.rating{
+  margin-left: 2rem;
+}
+
+.margin-left{
+  margin-left: 1rem;
+}
+
+textarea,
+select{
+  border: 1px solid #BBB;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+.update-pass{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.short{
+  max-width: 25rem;
+}
+
+.dynamic-field{
+  margin-right: 1rem;
+  width: 21%;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.MuiButton-sizeSmall.add-btn,
+.MuiButton-sizeSmall.remove-btn{
+  width: 155px;
+  background-color: var(--secondary-colour);
+  color: white;
+  padding: 0.5rem 0.75rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.MuiButton-sizeSmall.remove-btn{
+  background-color: #EA3916;
+  width: 125px;
+}
+.add-btn.add-result-btn{
+  width: 235px;
+}
+
+.result-container{
+  display: flex;
+  flex-direction: column;
+}
+.result-title{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  /* align-items: center; */
+}
+.result-title h4{
+  margin-right: 1.5rem;
+  margin-top: 0.4rem;
+}
+
+
+.radio-option{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+label{
+  font-weight: 600;
+}
+
+.radio-option label{
+  margin: 0;
+  margin-left: 0.5rem;
+}
+
+#treatment-image{
+  cursor: pointer;
+  border: 1px solid #CCC;
+  border-radius: 6px;
+}
+
+.form-buttons {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.form-buttons button,
+.form-buttons input{
+  margin: 1rem 0 0.5rem 2rem;
+  padding: 0.25rem 0.75rem;
+  /* border: none; */
+  border: 1px solid;
+  border-radius: 6px;
+  background-color: transparent;
+  font-weight: 500;
+}
+
+.form-buttons button {
+  color: #F32013;
+}
+.form-buttons button:hover {
+  transition-duration: 200ms;
+  color: #FFF;
+  background-color: #CA0B00;
+}
+
+.form-buttons input{
+  color: #10434F;
+}
+.form-buttons input:hover{
+  transition-duration: 200ms;
+  color: #FFF;
+  background-color: #10434F;
+}
+
+.form-field-container p{
+  color: #EA3916;
+}

@@ -1,0 +1,58 @@
+.side-nav-container{
+  min-height: 100vh;
+  height: inherit;
+  width: 300px;
+  background-color: #10434F;
+  box-shadow: 3px 0px 16px #777;
+}
+
+/* .fixed-content{
+  position: fixed;
+} */
+
+.side-header{
+  width: 100%;
+  background-color: #10434F;
+  /* background-color: #10434F; */
+  color: white;
+  padding: 1rem 1.5rem 0;
+  
+}
+.side-header h3{
+  font-size: 2rem;
+  color: white;
+}
+
+.list{
+  margin-top: 0rem;
+  color: white;
+}
+.list > li {
+  padding: 1rem 1.5rem 0.5rem;
+  font-size: 1.25rem;
+  /* cursor: pointer; */
+  font-weight: 600;
+  text-decoration: none;
+  border-top: 0.001rem solid rgb(20, 85, 100);
+}
+
+.list > li li{
+  padding: 0.1rem 1.2rem;
+  font-size: 1.05rem;
+  cursor: pointer;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+li>a {
+  cursor: pointer;
+  color: white;
+  /* color: #444; */
+}
+li>a:hover {
+  text-decoration: none;
+  color: #FFA67D;
+}
+.active{
+  color: #F15A2B;
+}

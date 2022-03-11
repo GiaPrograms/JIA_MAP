@@ -1,0 +1,43 @@
+  .translate-btn-container{
+    display: flex;
+  }
+  
+  Button.translate-btn-english{
+    color: #FFF;
+    font-weight: 700;
+    padding: 0.9rem 1.0rem;
+    background-color: rgba(30, 139, 195, 1);
+    border: white;
+    border-style: solid;
+    border-radius: 1rem;
+    cursor: pointer;
+    transition: all .3s ease-out;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.225);
+    right: 118rem;
+    font-size: 15px;
+  }
+  
+  Button.translate-btn-english:hover{
+    text-decoration: none;
+    background-color: rgba(30, 139, 195, 0.9);
+  }
+
+  Button.translate-btn-french{
+    color: #FFF;
+    font-weight: 700;
+    padding: 0.9rem 1.0rem; 
+    background-color: rgba(30, 195, 30, 1);
+    border: white;
+    border-style: solid;
+    border-radius: 1rem;
+    cursor: pointer;
+    transition: all .3s ease-out;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.225);
+    right: 118rem;
+    font-size: 15px;
+  }
+  
+  Button.translate-btn-french:hover{
+    text-decoration: none;
+    background-color: rgba(30, 195, 30, 0.9);
+  }

@@ -1,0 +1,156 @@
+.header{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.page-header{
+  position: fixed;
+  top: 0%;
+  padding-top: 5px;
+  width: 100%;
+  z-index: 10;
+  background-color: var(--primary-colour);
+}
+
+.tab-steps{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: var(--primary-colour); 
+}
+
+.tab-nav-header{
+  margin: 0%;
+}
+
+.tab-nav-header-item{
+  width: 100%;
+  position:relative;
+  text-align: center;
+}
+
+.tab-nav-header-item:first-child::before,
+.tab-nav-header-item:nth-child(2)::before{
+  display: none;
+}
+.tab-nav-header-item.active + li::before{
+  left: 0rem;
+  width: 0rem;
+}
+
+.tab-nav-header-navlink{
+  display: flex;
+  flex-direction: row-reverse;
+  flex-flow: column-reverse;
+  color:white;
+  padding: 1rem 0.5rem;
+}
+
+.tab-nav-header-navlink>div{
+  font-size: var(--font-size-lg);
+  background-color: #FFF;
+  display: flex;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 25px;
+  margin: auto 6rem;
+  z-index: 5;
+}
+
+.tab-nav-header-navlink>div>h2{
+  color: var(--primary-colour);
+}
+
+.tab-nav-header-navlink>p{
+  font-size: 13px;
+}
+
+.tab-nav-header-navlink:hover{
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.home-subheader-content h3{
+  color: white;
+}
+
+.tab-nav-header-navlink.active{
+  color: white;
+  /* Box Outline */
+  background-color: var(--secondary-colour); 
+}
+
+.tab-nav-header-navlink.active h2{
+  color: white;
+}
+
+/* .current{
+  background-color: var(--secondary-colour);
+} */
+
+/* Current number */
+.current>.tab-nav-header-navlink>div>h2{
+  color: var(--secondary-colour);
+}
+
+/* .tab-nav-header-navlink.active::before, 
+.tab-nav-header-navlink.active ~ *::before, */
+/* .tab-nav-header-navlink.active>div, */
+/* .tab-nav-header-navlink.active ~ *>div {
+  background-color: #FFF;
+} */
+
+.tab-nav-header-navlink.active>div>h2,
+.tab-nav-header-navlink.active ~ *>div>h2{
+  color: var(--primary-colour);
+}
+
+.tab-nav-header-navlink.active::before {
+  background-color: white;
+}
+
+/* Treatment Detail Tab = hidden */
+.tab-nav-header-navlink-hidden{
+  /* display: flex;
+  flex-direction: row-reverse;
+  flex-flow: column-reverse; */
+  color:white;
+  padding: 1rem 0.5rem;
+  width: 100%;
+}
+
+.tab-nav-header-navlink-hidden.active{
+  /* position: relative;
+  display: flex; */
+  background-color: var(--secondary-colour);
+  width: 100%;
+  /* padding: 1.5rem; */
+}
+
+.current>.tab-nav-header-navlink-hidden.active>div>h2{
+  color: #FFF;
+}
+/* .tab-nav-header-navlink-hidden.active::before,  */
+.tab-nav-header-navlink-hidden.active ~ *::before{
+  background-color: #FFF;
+}
+.tab-nav-header-navlink-hidden.active ~ *>div {
+  background-color: #FFF;
+}
+
+.tab-nav-header-navlink-hidden.active ~ *>div>h2{
+  color: var(--primary-colour);
+}
+
+.tab-nav-header-navlink-hidden.active::before {
+  background-color: #FFF;
+}
+
+.tab-nav-header-translation{
+  position: relative;
+  top: 15px;
+  left: 26rem;
+  display: inline;
+}

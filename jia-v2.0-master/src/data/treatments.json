@@ -1,0 +1,1833 @@
+{
+  "category": [
+    {
+      "id": 0,
+      "name": "Splints, Orthotics and Other Devices",
+      "img": "physicalActivity.jpeg",
+      "treatments": [
+        {
+          "treatment_name": "Custom-Made Foot Orthotics",
+          "key_name": "Custom_Made_Foot_Orthotics",
+          "img": "1.jpg",
+          "category": ["splints"],
+          "supervision": "hcp",
+          "evidence_level": 1,
+          "order_number": 1,
+          "specification":"Feet",
+          "description": "A custom-made foot orthotics are pads made specially for your foot that you place in your shoe to help support, align and improve the function of your foot.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Custom-made foot orthotics seem to be effective and safe for youth with JIA. They may be used by youth with JIA to manage pain after a discussion with health professionals.",
+          "experts_suggest": "Experts suggest that foot orthotics can be used when needed with the guidance of your health care team",
+          "studies": [
+            {
+              "study_name": "Comparing custom-made foot orthotics to those that are not customized (insoles bought in stores)",
+              "does_it_work": "A study of 60 youth with JIA showed that custom-made foot orthotics may reduce pain better than store-bought insoles after 6 months.",
+              "study_results": [
+                {
+                  "study_result_name": "Custom-Made Orthotics",
+                  "happy_face_score": 73,
+                  "text": "73 out of 100 youth with JIA have less pain"
+                },
+                {
+                  "study_result_name": "Store-Bought Insoles",
+                  "happy_face_score": 30,
+                  "text": "30 out of 100 youth with JIA have less pain"
+                }
+              ],
+              "is_safe": "Youth with JIA in this study had no side effects.",
+              "should_believe_research": "Yes; it is a high-quality study. It means you can trust these results.",
+              "star_rating": 5,
+              "methods": "Sixty youth with JIA were randomly divided into two groups. One group was given fitted foot orthotics with customized chair-side corrections and the other group was given foot orthotics without corrections.",
+              "treatments": "The fitted foot orthotics with customized chair-side corrections were Slimflex-Plus and the foot orthotics without corrections were made with leather board (1 mm) without corrections. Youth wore them gradually for the first few days and then used them in all shoes at all times including during exercise for 6 months.",
+              "results": "The fitted foot orthotics with customized chair-side corrections reduced pain better than the foot orthotics without corrections: according to our calculations, 43% morepeople improved in the fitted foot orthotics with customized chair-side corrections group compared to the foot orthotics without corrections group.",
+              "reference": "Coda, A., Fowlie, P. W., Davidson, J. E., Walsh, J., Carline, T., & Santos, D. (2014). Foot orthoses in children with juvenile idiopathic arthritis: a randomised controlled trial.Archives of disease in childhood,99(7), 649-651.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/24636956"
+            },
+            {
+              "study_name": "Comparing custom-made foot orthotics to supportive shoes",
+              "does_it_work": "A study of 27 youth with JIA showed that custom-made foot orthotics may reduce pain better than supportive shoes (with good arches) after 3 months.",
+              "study_results": [
+                {
+                  "study_result_name": "Custom made orthotics",
+                  "happy_face_score": 71,
+                  "text": "71 out of 100 youth with JIA have less pain"
+                },
+                {
+                  "study_result_name": "Supportive Shoes",
+                  "happy_face_score": 16,
+                  "text": "16 out of 100 youth with JIA have less pain"
+                }
+              ],
+              "is_safe": "Youth with JIA in this study had no side effects.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Forty youth with JIA and foot pain were randomly divided into three groups. One group wore custom-made foot orthotics with supportive pads,anothergroup was given store-bought padded insolesmade of neoprene to help absorb shock. The thirdgroup was given supportive sport shoes to wear. Youth wore their new sport shoes for 3 months.",
+              "treatments": "The custom-made foot orthotics with supportive pads with shock absorbing material. Another group was given store-bought padded insoles made of neoprene, and the third group was given supportive athletic shoes to wear. Youth wore their new sport shoes every time the youth would wear shoes for 3 months.",
+              "results": "The custom-made foot orthotics reduced pain better than the supportive athletic shoes: according to our calculations, 55% morepeople improved in the custom-made foot orthotics group compared to the sport shoes group. The custom-made foot orthotics also reduced pain better than the prefabricated flat neoprene shoe inserts.",
+              "reference": "Powell, M., Seid, M., & Szer, I. S. (2005). Efficacy of custom foot orthotics in improving pain and functional status in children with juvenile idiopathic arthritis: a randomized trial.The Journal of rheumatology,32(5), 943-950.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/15868634"
+            }
+          ],
+          "how_to_use_treatment": "You may have to wear orthotics all day, every day in your shoes. It may take about two weeks to adjust to new custom made foot orthotics. It is suggested to wear orthotics for an hour on the first day, two hours on the second day, and continuously progress each day so that by the end of the two weeks, you can wear orthotics comfortably all day. Fittings or adjustments may be needed.",
+          "How_soon": "It may help right away or it may take up a few months to feel better. Everybody is different.",
+          "Cost": "Custom made foot orthotics usually cost more money than store bought soles and supportive shoes. Your health insurance may cover some of these costs.",
+          "where": "Physiotherapists, occupational therapists, and podiatrists usually provide custom made foot orthotics. You can talk about it with your health care team to help you access it.",
+          "what_else_to_consider": "Since custom-made foot orthotics seem to be effective and safe but they cost money, you can try first wearing comfortable shoes with good arches and also buying insoles in a store.  These may be helpful. Not everybody likes the same type of footwear and orthotics. You can try them out to see if you like them.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2611&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2377&language=English",
+            "https://www.ccaa.org.uk/about-jia/treatment-of-jia/podiatry/"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Wrist Splints Worn at Night",
+          "key_name": "Wrist_Splints_Worn_at_Night",
+          "img": "2.jpg",
+          "category": ["splints"],
+          "supervision": "hcp",
+          "evidence_level": 2,
+          "order_number": 5,
+          "specification":"Hands",
+          "description": "A piece of material that you wear on your wrist to support and protect it.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Wrist splints worn at night seem to be effective and safe for adults with rheumatoid arthritis (RA). They may be used by youth with JIA to manage pain after discussion with health professionals.",
+          "experts_suggest": "Experts suggest that splints can be considered when needed with the guidance of your health care team",
+          "studies": [
+            {
+              "study_name": "Comparing wrist splints worn at night to wrist splints only worn for a short time.",
+              "does_it_work": "A study of 50 adults with RA showed that wrist splints worn at night may reduce pain after 3 months more than wrist splints worn only for a short time. Note that there were no studies in JIA.",
+              "study_results": [
+                {
+                  "study_result_name": "Wrist Splints Worn at Night",
+                  "happy_face_score": 66,
+                  "text": "66 out of 100 adults with RA have less pain"
+                },
+                {
+                  "study_result_name": "Wrist Splints Worn for a Short Time",
+                  "happy_face_score": 34,
+                  "text": "34 out of 100 adults with RA have less pain"
+                }
+              ],
+              "is_safe": "Adults with RA in this study had no side effects.",
+              "should_believe_research": "Probably; it is a moderate-quality study. It means that these results are probably true.",
+              "star_rating": 3,
+              "methods": "Fifty adults with rheumatoid arthritis were randomly divided into two groups: wrist splints worn at night or wrist splints worn only during evaluations, for 90 days.",
+              "treatments": "A 3.2-mm thick positioning wrist splint was individually manufactured with thermoplast and fixed with Velcro. The treatment group would wear this splint at night, and the control group would only wear it during evaluations.",
+              "results": "Wrist splints worn at night reduced pain better than wrist splints worn only during evaluation:according to our calculations,32% morepeople improved in the wrist splints worn at night group compared to the wrist splint worn only during evaluation group.",
+              "reference": "Silva, A. C., Jones, A., Silva, P. G., & Natour, J. (2008). Effectiveness of a night-time hand positioning splint in rheumatoid arthritis: a randomized controlled trial.Journal of rehabilitation medicine,40(9), 749-754.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/18843428"
+            }
+          ],
+          "how_to_use_treatment": "You may have to wear wrist splints all night.",
+          "How_soon": "It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Wrist splints may cost money. Your health insurance may cover some of these costs.",
+          "where": "Occupational therapists usually provide this treatment. You can talk about wrist splints with your health care team to help you access them. You can also buy wrist splints that are not customized in stores.",
+          "what_else_to_consider": "Some people may not like to wear splints at night. You can talk about it with your health care team and try it out to see if you like it.",
+          "learn_more": [
+            "http://education.arthritis.ca/en_us/learntousetoolsanddevices/topic6_9.aspx",
+            "https://www.aboutkidshealth.ca/Article?contentid=1079&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2376&language=English"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Night Mouth Guards",
+          "key_name": "Night_Mouth_Guards",
+          "img": "3.jpg",
+          "category": ["splints"],
+          "supervision": "hcp",
+          "evidence_level": 5,
+          "order_number": 25,
+          "specification":"Jaw",
+          "description": "A plastic piece that you wear on top of your teeth to protect when you clench your jaw or grind your teeth at night.",
+          "traffic_light_level": 2,
+          "traffic_light_description": "Night mouth guards seem to be effective and safe for youth with jaw pain. They may be used by youth with JIA to manage pain after a discussion with health professionals.",
+          "experts_suggest": "Night mouth guards are not mentioned in guidelines for JIA.",
+          "studies": [
+            {
+              "study_name": "Comparing mouth guards to relaxation therapy (both with brief information).",
+              "does_it_work": "A study of 83 youth with jaw pain showed that mouth guards may reduce pain better than relaxation therapy after 6 months. Note that there were no studies in JIA.",
+              "study_results": [
+                {
+                  "study_result_name": "Night Mouth Guard",
+                  "happy_face_score": 100,
+                  "text": "100 out of 100 youth with jaw pain have less pain"
+                },
+                {
+                  "study_result_name": "Relaxation Therapy",
+                  "happy_face_score": 9,
+                  "text": "9 out of 100 youth with jaw pain have less pain"
+                }
+              ],
+              "is_safe": "Youth who used a night mouth guard in this study had no more side effects than youth who did not use a night mouth guard.",
+              "should_believe_research": "Yes; it is a high-quality study. It means you can trust these results.",
+              "star_rating": 5,
+              "methods": "One-hundred-and-twenty-two youth who reported pain at least once a week for three months and who had a temporomandibular disorder pain diagnosis were randomly divided into three groups. One group was given brief information and a mouth guard, one group was given brief information and relaxation therapy and one group was given brief information.",
+              "treatments": "Youth who received either brief information and a mouth guard or brief information and relaxation received the treatment in 4 sessions done at 2-week intervals. Those who received brief information alone received information in one session. Those who received the mouth guard were asked to use it every night until the evaluation at 3 months and then when they felt they needed it until the 6-month follow-up. Relaxation training was given to teach youth a quick method to use in everyday situations when they felt bodily tension and pain. Brief information was a 30 minute session given to each youth that explained knowledge related to the disease and about pain and stress.",
+              "results": "The brief information and mouth guard reduced pain more than brief information and relaxation therapy:according to our calculations,91% more people improved in the brief information and mouth guard group compared to the brief information and relaxation therapy group. The brief information and mouth guard reduced pain more than brief information:according to our calculations,80% more people improved in the brief information and mouth guard group compared to the brief information group.",
+              "reference": "Wahlund, K. (2003). Temporomandibular disorders in adolescents. Epidemiological and methodological studies and a randomized controlled trial.Swedish dental journal. Supplement, (164), inside-front.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/14717039"
+            },
+            {
+              "study_name": "Comparing mouth guards with brief information to brief information alone.",
+              "does_it_work": "A study of 81 youth with jaw pain showed that mouth guards and brief information may reduce pain better than brief information alone after 6 months. Note that there were no studies in JIA.",
+              "study_results": [
+                {
+                  "study_result_name": "Night Mouth Guard & Brief Information",
+                  "happy_face_score": 89,
+                  "text": "89 out of 100 youth with jaw pain have less pain"
+                },
+                {
+                  "study_result_name": "Brief Information",
+                  "happy_face_score": 9,
+                  "text": "9 out of 100 youth with jaw pain have less pain"
+                }
+              ],
+              "is_safe": "Youth who used a night mouth guard in this study had no more side effects than youth who did not use a night mouth guard.",
+              "should_believe_research": "Yes; it is a high-quality study. It means you can trust these results.",
+              "star_rating": 5,
+              "methods": "One-hundred-and-twenty-two youth who reported pain at least once a week for three months and who had a temporomandibular disorder pain diagnosis were randomly divided into three groups. One group was given brief information and a mouth guard, one group was given brief information and relaxation therapy and one group was given brief information.",
+              "treatments": "Youth who received either brief information and a mouth guard or brief information and relaxation received the treatment in 4 sessions done at 2-week intervals. Those who received brief information alone received information in one session. Those who received the mouth guard were asked to use it every night until the evaluation at 3 months and then when they felt they needed it until the 6-month follow-up. Relaxation training was given to teach youth a quick method to use in everyday situations when they felt bodily tension and pain. Brief information was a 30 minute session given to each youth that explained knowledge related to the disease and about pain and stress.",
+              "results": "The brief information and mouth guard reduced pain more than brief information and relaxation therapy: according to our calculations, 91% more people improved in the brief information and mouth guard group compared to the brief information and relaxation therapy group. The brief information and mouth guard reduced pain more than brief information: according to our calculations, 80% more people improved in the brief information and mouth guard group compared to the brief information group.",
+              "reference": "Wahlund, K. (2003). Temporomandibular disorders in adolescents. Epidemiological and methodological studies and a randomized controlled trial. Swedish dental journal. Supplement, (164), inside-front.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/14717039"
+            }
+          ],
+          "how_to_use_treatment": "Mouth guards are often worn at night. ",
+          "How_soon": "It may take up to a month to adjust to sleeping with a mouth guard. It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Mouth guards usually cost money. Your health insurance may cover some of these costs.",
+          "where": "Dentists usually provide this treatment. You can talk about it with your health care team to help you access it.",
+          "what_else_to_consider": "Some people may not like to wear mouth guards at night. You can try it out to see if you can tolerate it.",
+          "learn_more": [
+            "https://www.aboutkidshealth.ca/Article?contentid=1085&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2382&language=English"
+          ],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Physical Activities",
+      "img": "physicalActivity.jpeg",
+      "treatments": [
+        {
+          "treatment_name": "Pilates",
+          "key_name": "Pilates",
+          "img": "4.jpg",
+          "category": ["Physical Activities", "Immediate Relieve"],
+          "supervision": "sc",
+          "evidence_level": 1,
+          "order_number": 2,
+          "description": "Exercises that help you improve your strength, flexibility and posture.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Pilates seems to be effective and safe for youth with JIA. It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest that youth with JIA should participate in regular physical activity.",
+          "studies": [
+            {
+              "study_name": "Comparing pilates to conventional exercise program",
+              "does_it_work": "A study of 50 youth with JIA showed that pilates may reduce pain better than a general exercise program after 6 months.",
+              "study_results": [
+                {
+                  "study_result_name": "Pilates",
+                  "happy_face_score": 75,
+                  "text": "75 out of 100 youth with JIA have less pain"
+                },
+                {
+                  "study_result_name": "General Exercise Program",
+                  "happy_face_score": 20,
+                  "text": "20 out of 100 youth with JIA have less pain"
+                }
+              ],
+              "is_safe": "Youth with JIA in this study had no side effects.",
+              "should_believe_research": "Probably; it is a moderate-quality study. It means that these results are probably true.",
+              "star_rating": 3,
+              "methods": "Fifty youth with JIA were randomly divided into two groups. One group was given a conventional exercise program and one group participated in a Pilates exercise program.  Each exercise program was done under the supervision of a trained physical therapist. The sessions were 50 minutes and occurred twice per week for 6 months.",
+              "treatments": "The Pilates program followed STOTT-PILATES methods and included floor exercises and exercises with the Reformer, Stability Chair, Cadillac and Ladder Barrel. The exercises were adapted to the age and physical and cognitive abilities of youth. Five repetitions of each exercise were done for the first 3 classes, 8 repetitions for the next 3 classes, and 10 repetitions in subsequent classes. The conventional exercise program was also adapted and was available as a handout to patients. It included a warm-up, a workout, and a cooling-down period. The exercises were done with a series of 6 to 10 repetitions in the supine, prone, and seated positions. The stretching exercise positions were maintained for 30 seconds.",
+              "results": "The Pilates exercise reduced pain better than the conventional exercise program:according to our calculations,55% more people improved in the Pilates group compared to the conventional exercise group. ",
+              "reference": "Mendonça, T. M., Terreri, M. T., Silva, C. H., Neto, M. B., Pinto, R. M., Natour, J., & Len, C. A. (2013). Effects of Pilates exercises on health-related quality of life in individuals with juvenile idiopathic arthritis.Archives of physical medicine and rehabilitation,94(11), 2093-2102.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/23806610"
+            }
+          ],
+          "how_to_use_treatment": "Youth should do about an hour of physical activity (moderate to vigorous intensity) per day but you can do it in sessions of about 15 minutes depending on your schedule. It may be important to gradually increase how often and how long you do physical activity over time.",
+          "How_soon": "It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Pilates  can cost money if you attend classes. You can avoid the cost by following an online program.",
+          "where": "There are pilates classes at community centres and gyms. Also, there are video tutorials online (see the links below).",
+          "what_else_to_consider": "It is important to do movements at your own pace to avoid hurting yourself. It helps to start with a warm-up and end with cool-down exercises to help prevent injuries.",
+          "learn_more": [
+            "https://www.arthritis.org/living_with_arthritis/exercise/arthritis_friendly/pilates.php"
+          ],
+          "videos": [
+            "https://www.nhs.uk/conditions/nhs_fitness_studio/arthritis_pilates_exercise_video/"
+          ]
+        },
+        {
+          "treatment_name": "Yoga",
+          "key_name": "Yoga",
+          "img": "5.jpg",
+          "category": ["Physical Activities", "Immediate Relieve", "Relax"],
+          "supervision": "sc",
+          "evidence_level": 1,
+          "order_number": 8,
+          "description": "Exercises including stretching and focused breathing that help relax you.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Yoga seems to be effective and safe for adults with rheumatoid arthritis (RA). It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest that youth with JIA should participate in regular physical activity.",
+          "studies": [
+            {
+              "study_name": "Comparing yoga to being on a waitlist (not doing yoga and not doing a lot of physical activity)",
+              "does_it_work": "A study of 53 adults with RA showed that yoga may reduce pain better than being on a waitlist after 2 and half months. Note that there were no studies in JIA.",
+              "study_results": [
+                {
+                  "study_result_name": "Yoga",
+                  "happy_face_score": 37,
+                  "text": "37 out of 100 adults with RA have less pain"
+                },
+                {
+                  "study_result_name": "Waitlist",
+                  "happy_face_score": 13,
+                  "text": "13 out of 100 adults with RA have less pain"
+                }
+              ],
+              "is_safe": "There were no side effects in this study.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Seventy-five adults with rheumatoid arthritis or knee osteoarthritis were randomly divided into two groups. One group was assigned to an Yoga program and one group was waitlisted.",
+              "treatments": "The IyengarYoga program consisted of 60-min classes held twice weekly for 8 weeks at two hospital-affiliated fitness centers. The program was designed by a registered yoga therapist with input from the Johns Hopkins Arthritis Center faculty. Two experienced yoga therapists taught the classes. Classes began with questions/comments, breathing exercises and chanting, warm-up and moving sequence, and isometric poses to increase strength, flexibility, and balance. Classes ended with deep relaxation, a closing chant, and meditation. Poses included gentle forward bends, backbends, twists, balances, standing, sitting, and lying poses, and were modified for individuals as needed. Written instructions with pictures for home practice and information on the possible benefits of yoga were given weekly. The waitlist group received usual care for 8 weeks and was asked to continue with existing levels of physical activity and inform coordinators of changes in health or arthritis medications.",
+              "results": "Iyengar yoga reduced pain better than being on a waitlist:according to our calculations,24% more people improved in the yoga group compared to the waitlist group.",
+              "reference": "Moonaz, S. H., Bingham, C. O., Wissow, L., & Bartlett, S. J. (2015). Yoga in Sedentary Adults with Arthritis: Effects of a Randomized Controlled Pragmatic Trial.The Journal of rheumatology,42(7), 1194–1202. doi:10.3899/jrheum.141129",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/25834206"
+            }
+          ],
+          "how_to_use_treatment": "Youth should do about an hour of physical activity (moderate to vigorous intensity) per day but you can do it in sessions of about 15 minutes depending on your schedule. It may be important to gradually increase how often and how long you do physical activity over time.",
+          "How_soon": "It may help right away or it may take up to a few months to feel better. Everybody is different",
+          "Cost": "Yoga can cost money if you attend classes. You can avoid the cost by following an online program.",
+          "where": "There are yoga classes at community centres and gyms. Also, there are video tutorials online (see the links below).",
+          "what_else_to_consider": "It is important to do movements at your own pace to avoid hurting yourself. It helps to start with a warm up and end with cool down exercises to help prevent injuries.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2605&language=English&hub=jiateenhub",
+            "https://teens.aboutkidshealth.ca/Article?contentid=2606&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2371&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2373&language=English",
+            "https://www.arthritis.org/living_with_arthritis/exercise/workouts/yoga/yoga_benefits.php"
+          ],
+          "videos": [
+            "https://www.youtube.com/user/yogawithadriene/search?query=arthritis",
+            "https://teens.aboutkidshealth.ca/Article?contentid=2608&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2374&language=English",
+            "https://www.hopkinsarthritis.org/patient-corner/disease-management/yoga-for-arthritis/",
+            "https://www.youtube.com/watch?v=1j4984Mqx7Q"
+          ]
+        },
+        {
+          "treatment_name": "Cardio",
+          "key_name": "Cardio",
+          "img": "6.jpg",
+          "category": ["Physical Activities"],
+          "supervision": "sc",
+          "evidence_level": 2,
+          "order_number": 7,
+          "description": "Cardio exercise seems to be effective and safe in adults with rheumatoid arthritis (RA). It may be used by youth with JIA to manage pain.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Experts suggest that youth with JIA should participate in regular physical activity.",
+          "experts_suggest": "Experts suggest that youth with JIA should participate in regular physical activity.",
+          "studies": [
+            {
+              "study_name": "Comparing cardio exercises to stretching",
+              "does_it_work": "A study of 40 adults with RA showed that cardio exercises may reduce pain better than stretching after 2 weeks. Note that there were no studies in JIA",
+              "study_results": [
+                {
+                  "study_result_name": "Cardio Exercises",
+                  "happy_face_score": 49,
+                  "text": "49 out of 100 adults with RA have less pain"
+                },
+                {
+                  "study_result_name": "Stretching",
+                  "happy_face_score": 19,
+                  "text": "19 out of 100 adults with RA have less pain"
+                }
+              ],
+              "is_safe": "There were no side effects in this study.",
+              "should_believe_research": "Not sure; it is a low quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Forty adults with rheumatoid arthritis were randomly divided into two groups. One group was assigned to an aerobics exercise program and the other was assigned to a range of motion (ROM) exercise program.",
+              "treatments": "The program consisted of five 20-minute sessions weekly for 2 weeks. In the ROM exercise program, all joint movements of the upper and lower extremities were exercised throughout the entire possible ROM. The movements were active and done at a low pace. The exercises were individually supervised by exercise therapists and performed in prone, sitting and standing positions. The aerobics exercise program was done on a treadmill while the heart rate was maintained at 60% of the age predicted maximum heart rate. Evaluations were done at the end of the first and second week.",
+              "results": "The aerobics program reduced pain better than the ROM exercise program:according to our calculations,30more people improved in the aerobics group compared to the ROM exercise group.",
+              "reference": "Melikoglu, M. A., Karatay, S., Senel, K., & Akcay, F. (2006). Association between dynamic exercise therapy and IGF-1 and IGFBP-3 concentrations in the patients with rheumatoid arthritis.Rheumatology international,26(4), 309-313.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/15933856"
+            }
+          ],
+          "how_to_use_treatment": "Youth should do about an hour of physical activity (moderate to vigorous intensity) per day but you can do it in sessions of about 15 minutes depending on your schedule.",
+          "How_soon": "It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Cardio exercises can cost money if you attend classes. You can avoid the cost by following an online program.",
+          "where": "There are cardio exercise classes at community centres and gyms. Also, there are video tutorials online (see links below).",
+          "what_else_to_consider": "It is important to do movements at your own pace to avoid hurting yourself. It may be important to gradually increase how often and how long you do physical activity over time. Even though stretching is not as helpful as cardio exercises, it may help you feel better.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2604&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2370&language=English",
+            "http://www.kidsgetarthritistoo.org/living_with_ja/daily_life/staying_active/ja_exercise.php",
+            "https://www.cps.ca/en/documents/position/physical_activity_chronic_condition"
+          ],
+          "videos": [
+            "https://www.youtube.com/watch?v=0Kuv7blrV6U",
+            "https://www.youtube.com/watch?v=tED1RYb27ng",
+            "https://www.arthritis.org/living-with-arthritis/exercise/videos/"
+          ]
+        },
+        {
+          "treatment_name": "Water Exercises",
+          "key_name": "Water_Exercises",
+          "img": "7.jpg",
+          "category": ["Physical Activities"],
+          "supervision": "sc",
+          "evidence_level": 2,
+          "order_number": 6,
+          "description": "Exercises that you do in water and that help you stay active, like water aerobics.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Water exercise seems to be effective and safe in adults with rheumatoid arthritis (RA). It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest that youth with JIA should participate in regular physical activity.",
+          "studies": [
+            {
+              "study_name": "Compared water activities to normal daily activities",
+              "does_it_work": "A study of 30 adults with RA showed that water exercises may reduce pain better than normal daily activities after 3 months. Note that there were no studies in JIA",
+              "study_results": [
+                {
+                  "study_result_name": "Water Exercise",
+                  "happy_face_score": 48,
+                  "text": "48 out of 100 adults with RA have less pain"
+                },
+                {
+                  "study_result_name": "Normal Daily Activities",
+                  "happy_face_score": 13,
+                  "text": "13 out of 100 adults with RA have less pain"
+                }
+              ],
+              "is_safe": "There were no side effects in this study.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Thirty-four adults with rheumatoid arthritis were randomly divided into two groups. One group was assigned to a water exercise program and the other group was assigned to normal daily activity. ",
+              "treatments": "The water exercise program emphasized muscle strength activity and consisted of two sessions a week for 12 weeks. Sessions lasted 45 minutes the first two weeks and gradually increased to 60 minutes the last two weeks.",
+              "results": "The water exercise program reduced pain better than normal daily activity:according to our calculations,35% more people improved in the water exercise group compared to the normal daily activity group.",
+              "reference": "Rintala, P., Kettunen, H., & McCubbin, J. A. (1996). Effects of a water exercise program for individuals with rheumatoid arthritis.Research in Sports Medicine: An International Journal,7(1), 31-38.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3415190/"
+            }
+          ],
+          "how_to_use_treatment": "Youth should do about an hour of physical activity (moderate to vigorous intensity) per day but you can do it in sessions of about 15 minutes depending on your schedule.",
+          "How_soon": "It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Water exercise can cost money if you attend classes and if you have to pay to go to a pool.",
+          "where": "There are water exercise classes at community centres and pools.",
+          "what_else_to_consider": "It is important to do movements at your own pace to avoid hurting yourself. It may be important to gradually increase how often and how long you do physical activity over time.",
+          "learn_more": [
+            "https://www.jia.org.uk/pain_and_resistive_underwater_exercise",
+            "https://arthritisaustralia.com.au/managing_arthritis/living_with_arthritis/physical_activity_and_exercise/water_exercise/"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Individualized Exercise Program",
+          "key_name": "Individualized_Exercise_Program",
+          "img": "8.jpg",
+          "category": ["Physical Activities"],
+          "supervision": "hcp",
+          "evidence_level": 4,
+          "order_number": 19,
+          "description": "An exercise routine that is created just for you based on what you need, want and can do to stay healthy. These include cardio (that makes your heart go faster), stretching and balance exercises.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Individualized exercise programs are recommended by experts for youth with JIA. They may be used by youth with JIA to manage pain after a discussion with health professionals.",
+          "experts_suggest": "Experts suggest that youth with JIA should participate in regular physical activity. Custom designed programs may have even more benefits.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether individualized exercise programs reduce pain. There isn’t enough research yet in JIA. However, individualized exercise programs may help reduce pain among adults.",
+              "study_results": [
+                {
+                  "study_result_name": "Water Exercise",
+                  "happy_face_score": null,
+                  "text": "null"
+                }
+              ],
+              "is_safe": "There are rare side effects when supervised by a health professional.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "Youth should do about an hour of physical activity (moderate to vigorous intensity) per day, but you can talk to your health care team to figure out what is best for you.",
+          "How_soon": "It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "This treatment can cost money if provided by a health professional such as  a physiotherapist or occupational therapist. Your insurance may also pay some of it. It may be important to gradually increase how often and how long you do physical activity over time.",
+          "where": "Physical exercise programs can be provided by physiotherapists and occupational therapists. You can talk about it with your health care team to help you access it.",
+          "what_else_to_consider": "It is important to do movements at your own pace to avoid hurting yourself and to follow the advice of a health professional. It may be helpful to start with a warm-up and end with cool-down exercises to help prevent injuries.",
+          "learn_more": [
+            "https://www.aboutkidshealth.ca/article?contentid=1077&language=English",
+            "https://www.aboutkidshealth.ca/Article?contentid=1076&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2340&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2370&language=English",
+            "https://www.cdc.gov/arthritis/basics/physical_activity_overview.html",
+            "https://www.arthritis.org/about_arthritis/types/juvenile_idiopathic_arthritis_jia/self_care.php",
+            "https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=hw100889"
+          ],
+          "videos": [
+            "https://www.arthritis.org/living-with-arthritis/exercise/videos/",
+            "https://www.arthritis.org/living-with-arthritis/exercise/videos/stretches/"
+          ]
+        },
+        {
+          "treatment_name": "Stretching",
+          "key_name": "Stretching",
+          "img": "9.jpg",
+          "category": ["Physical Activities", "Immediate Relieve", "Relax"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 12,
+          "description": "Exercise that allows you to stretch different parts of your body.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Stretching is recommended by experts for youth with JIA. They may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest that youth with JIA should participate in regular physical activity.",
+          "studies": [
+            {
+              "study_name": "Comparing stretching to cardio exercises",
+              "does_it_work": "A study of 40 adults with RA showed that cardio exercises may reduce pain better than stretching after 2 weeks. However, some adults with RA still improved with stretching. Note that there were no studies in JIA.",
+              "study_results": [
+                {
+                  "study_result_name": "Cardio Exercises",
+                  "happy_face_score": 49,
+                  "text": "49 out of 100 adults with RA have less pain"
+                },
+                {
+                  "study_result_name": "Stretching",
+                  "happy_face_score": 19,
+                  "text": "19 out of 100 adults with RA have less pain"
+                }
+              ],
+              "is_safe": "There were no side effects in this study.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Forty adults with rheumatoid arthritis were randomly divided into two groups. One group was assigned to an aerobics exercise program and the other was assigned to a range of motion (ROM) exercise program. ",
+              "treatments": "The program consisted of five 20-minute sessions weekly for 2 weeks. In the ROM exercise program, all joint movements of the upper and lower extremities were exercised throughout the entire possible ROM. The movements were active and done at a low pace. The exercises were individually supervised by exercise therapists and performed in prone, sitting and standing positions. The aerobics exercise program was done on a treadmill while the heart rate was maintained at 60% of the age predicted maximum heart rate. Evaluations were done at the end of the first and second week.",
+              "results": "The aerobics program reduced pain better than the ROM exercise program:according to our calculations,30more people improved in the aerobics group compared to the ROM exercise group.",
+              "reference": "Melikoglu, M. A., Karatay, S., Senel, K., & Akcay, F. (2006). Association between dynamic exercise therapy and IGF-1 and IGFBP-3 concentrations in the patients with rheumatoid arthritis. Rheumatology international,26(4), 309-313.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/15933856"
+            }
+          ],
+          "how_to_use_treatment": "Youth should do about an hour of physical activity (moderate to vigorous intensity) per day but you can do it in sessions of about 15 minutes depending on your schedule. It is better to warm up before doing stretches to avoid getting hurt. It is also important to stretch slowly and to hold the pause for about 20 seconds.",
+          "How_soon": "It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Stretching can cost money if you attend exercise classes. You can avoid the cost by following an online program.",
+          "where": "There are exercise classes at community centres and gyms. Also, there are video tutorials online (see links below).",
+          "what_else_to_consider": "It is important to do movements at your own pace to avoid hurting yourself. It may be important to gradually increase the time and intensity of stretches over time.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2604&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2370&language=English",
+            "http://www.kidsgetarthritistoo.org/living-with-ja/daily-life/staying-active/ja-exercise.php",
+            "https://www.cps.ca/en/documents/position/physical-activity-chronic-condition"
+          ],
+          "videos": [
+              "https://www.arthritis.org/living-with-arthritis/exercise/videos/stretches/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Physical Treatments",
+      "img": "underconstruction.png",
+      "treatments": [
+        {
+          "treatment_name": "Massage",
+          "key_name": "Massage",
+          "img": "10.jpg",
+          "category": ["Physical Treatments", "Immediate Relieve", "Relax"],
+          "supervision": "sc",
+          "evidence_level": 1,
+          "order_number": 3,
+          "description": "Rubbing or kneading your muscle or joints to help you relax.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Massage seems be effective and safe for youth with JIA. It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest that youth with JIA can use massage.",
+          "studies": [
+            {
+              "study_name": "Comparing massage to relaxation techniques ",
+              "does_it_work": "A study of 20 youth with JIA showed that massage may reduce pain better than relaxation after 1 month.",
+              "study_results": [
+                {
+                  "study_result_name": "Massage",
+                  "happy_face_score": 96,
+                  "text": "96 out of 100 youth with JIA have less pain"
+                },
+                {
+                  "study_result_name": "Relaxation",
+                  "happy_face_score": 12,
+                  "text": "12 out of 100 youth with JIA have less pain"
+                }
+              ],
+              "is_safe": "There were no side effects for youth with JIA.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Twenty youth with JIA were randomly divided into two groups. One group received massage therapy and the other group received relaxation therapy. ",
+              "treatments": "The massage therapy group received a daily 15-minute massage by one of their parents for 30 days. During the massage, the child was first placed in a supine position and the parent applied oil and stroked the child’s face, stomach, legs and arms. Then, in a prone position, the child’s back was massaged. The relaxation therapy group experienced a 15-minute relaxation session with one of their parents (who received training and written instructions) for 30 days. During the relaxation session, the child laid on his/her back and was instructed to tighten and relax different muscles in the face, back, arms, hands, thighs, calves and feet.",
+              "results": "Massage therapy reduced pain better than relaxation therapy:according to our calculations,84% more people improved in the massage group compared to the relaxation group.",
+              "reference": "Field, T., Hernandez-Reif, M., Seligmen, S., Krasnegor, J., Sunshine, W., Rivas-Chacon, R., ... & Kuhn, C. (1997). Juvenile rheumatoid arthritis: benefits from massage therapy.Journal of pediatric Psychology,22(5), 607-617.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/9383925"
+            }
+          ],
+          "how_to_use_treatment": "Massages as short as 15 minutes a day can help to reduce pain. You could also have longer massages less often since most massage therapists will give a massage for at least 30 minutes.",
+          "How_soon": "It may help right away or it may take up to a month to feel better with a massage per day. It may take longer if you have massages less often. Everybody is different.",
+          "Cost": "Massage can be free if done by yourself or a family member. Professional massages may be covered by health insurance or may require out-of-pocket cost depending on your insurance.",
+          "where": "Massage therapists usually provide this treatment. It is better to consult with a registered massage therapist who has experience with treating patients who have JIA. You may also seek training to do massages on your own or purchase massaging devices that can be used at home.",
+          "what_else_to_consider": "If massages are causing more pain, then you should stop this treatment option. You should also consider your comfort level with receiving massage from a trained professional who is a stranger or from your parents. If you choose to try massage, make sure to advocate for yourself about your comfort level.",
+          "learn_more": [
+            "https://www.aboutkidshealth.ca/Article?contentid=1076&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2340&language=English ",
+            "https://www.arthritis.org/living-with-arthritis/treatments/natural/other-therapies/massage/self-massage.php"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Occupational Therapy Interventions",
+          "key_name": "Occupational_Therapy_Interventions",
+          "img": "11.jpg",
+          "category": ["Physical Treatments", "Educational Approaches"],
+          "supervision": "hcp",
+          "evidence_level": 4,
+          "order_number": 17,
+          "description": "A professional gives you exercises and activities that help you do daily tasks and activities that are important to you.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Occupational therapy is recommended by experts for youth with JIA. They may be used by youth with JIA to manage pain after a discussion with their health care team.",
+          "experts_suggest": "Experts suggest that occupational therapy may help youth with JIA.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether occupational therapy interventions reduce pain in JIA. There isn’t enough research yet.",
+              "study_results": null,
+              "is_safe": "There are rare side effects.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+
+            }
+          ],
+          "how_to_use_treatment": "Weekly treatment sessions may be recommended and sessions may take about 45 minutes, with the first appointment lasting longer. ",
+          "How_soon": "It depends on which intervention your occupational therapist recommends. It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Occupational therapy interventions may take time to do and cost money depending on your health insurance. The initial visit may be more expensive than follow-up sessions.",
+          "where": "Occupational therapists provide this treatment. You can talk about it with your health care team to help you access it, in the US a referral is often indicated from a physician.",
+          "what_else_to_consider": "It is better to consult with a registered occupational therapist who has experience with treating JIA. ",
+          "learn_more": [
+            "https://www.jia.org.uk/the-occupational-therapist-",
+            "https://www.aboutkidshealth.ca/Article?contentid=1079&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2376&language=English ",
+            "https://www.ccaa.org.uk/about-jia/treatment-of-jia/occupational-therapy/"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Physiotherapy Interventions",
+          "key_name": "Physiotherapy_Interventions",
+          "img": "12.jpg",
+          "category": ["Physical Treatments", "Educational Approaches"],
+          "supervision": "hcp",
+          "evidence_level": 4,
+          "order_number": 18,
+          "description": "A professional gives you physical treatments, stretches and activities that help with your strength, balance, range of motion and functioning.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Physiotherapy is recommended by experts for youth with JIA. They may be used by youth with JIA to manage pain after a discussion with their health care team.",
+          "experts_suggest": "Experts suggest that youth with JIA can use physiotherapy. ",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether physiotherapy interventions reduce pain in JIA. There isn’t enough research yet in JIA. However, physiotherapy interventions may help reduce pain among adults.",
+              "study_results": null,
+              "is_safe": "There are rare side effects.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "Weekly treatment sessions may be recommended and sessions may take from 20 to 45 minutes, with the first appointment lasting longer. Sessions may vary in length because everybody is different.",
+          "How_soon": "It depends on which intervention your physiotherapist recommends. It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Physiotherapy interventions may take time to do and cost money depending on your health insurance.",
+          "where": "Physiotherapists provide this treatment. You can talk about it with your health care team to help you access it.",
+          "what_else_to_consider": "It is important to do movements at your own pace to avoid hurting yourself and to follow the advice of a health professional. It is better to consult with a registered physiotherapist who has experience with treating JIA.",
+          "learn_more": [
+            "https://www.aboutkidshealth.ca/Article?contentid=1078&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2368&language=English",
+            "https://www.jia.org.uk/physiotherapist",
+            "https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=hw100889",
+            "https://www.ccaa.org.uk/about-jia/treatment-of-jia/physiotherapy/"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Heat",
+          "key_name": "Heat",
+          "img": "13.jpg",
+          "category": ["Physical Treatments", "Immediate Relieve", "Relax"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 14,
+          "description": "A hot towel or heating pad that you apply to your joints to help with stiffness and pain.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Heat is recommended by experts for youth with JIA. It may be used by youth with JIA to manage pain and stiffness.",
+          "experts_suggest": "Experts suggest that youth with JIA can use heat packs, pads, and warm baths or showers to reduce pain.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether heat packs reduce pain in JIA. There isn’t enough research yet. ",
+              "study_results": null,
+              "is_safe": "There are rare serious side effects. Heat burns can occur if packs, baths or showers are too hot. It is suggested not to use heat packs if the joints are already red and warm because it may worsen the inflammation in your joints.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "It is suggested to use a heat pack for 20 minutes every 2 to 4 hours. Sometimes, heat and cold can also be used one after the other.",
+          "How_soon": "It may help right away or it may take up to a few days to feel better. Everybody is different. You may be less stiff in the morning if your affected joints are kept warm during the night.",
+          "Cost": "Heat packs usually cost money. You may use what you have at home. Hot water bottle, warm towel, warm bath and warm shower can all provide heat.",
+          "where": "Heat is easy to use at home.",
+          "what_else_to_consider": "Some people prefer heat to cold. You can try and see what you prefer. Sometimes, heat and cold can also be used one after the other.",
+          "learn_more": [
+            "http://www.kidsgetarthritistoo.org/living-with-ja/medical-care/pain-and-symptoms/ja-heat-cold.php",
+            "https://www.aboutkidshealth.ca/Article?contentid=1076&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2340&language=English"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Cold",
+          "key_name": "Cold",
+          "img": "14.jpg",
+          "category": ["Physical Treatments", "Immediate Relieve"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 15,
+          "description": "A cold towel , cold packs, or an ice bag that you apply to your joints to help with inflammation.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Cold is recommended by experts for youth with JIA. It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest that youth with JIA can use cold packs and ice massage to decrease pain, especially in inflamed joints.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether cold packs reduce pain in JIA. There isn’t enough research yet. ",
+              "study_results": null,
+              "is_safe": "There are rare serious side effects. Ice burns can occur if ice is used for too long.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "It is suggested to use a cold pack for 10 minutes every 1 to 2 hours, with a thin layer of cloth between the pack and the skin to avoid direct contact. A cold, damp cloth may be more effective. Instead, you may use a cold water bottle, plastic bag with ice chips, or bag of frozen vegetables. Ice massage could be done using gentle circular motions for no more than 5 minutes at a time. Sometimes, heat and cold can also be used one after the other.",
+          "How_soon": "It may help right away or it may take up to a few days to feel better. Everybody is different. Cold therapy may be helpful to reduce swelling and inflammation, especially after physical activity.",
+          "Cost": "Cold packs usually cost money. To avoid spending money, you may use a cold, damp cloth, a cold water bottle, a plastic bag with ice chips, or a bag of frozen vegetables.",
+          "where": "Cold packs can be purchased in health care store, pharmacies, or sometimes home department stores.",
+          "what_else_to_consider": "Some people prefer heat to cold. You can try and see what you prefer. Sometimes, heat and cold can also be used one after the other.",
+          "learn_more": [
+            "http://www.kidsgetarthritistoo.org/living-with-ja/medical-care/pain-and-symptoms/ja-heat-cold.php",
+            "https://www.aboutkidshealth.ca/Article?contentid=1076&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2340&language=English"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Acupuncture",
+          "key_name": "Acupuncture",
+          "img": "15.jpg",
+          "category": ["Physical Treatments"],
+          "supervision": "hcp",
+          "evidence_level": 6,
+          "order_number": 29,
+          "description": "A professional uses thin needles to prick the surface of your skin.",
+          "traffic_light_level": 2,
+          "traffic_light_description": "Acupuncture is not mentioned in guidelines for JIA. They may be used by youth with JIA to manage pain after a discussion with their health care team.",
+          "experts_suggest": "Acupuncture is not mentioned in guidelines for JIA.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether acupuncture reduces pain in JIA. There isn’t enough research yet.",
+              "study_results": null,
+              "is_safe": "Mild side effects such as pain, bruising, bleeding and worsening of symptoms can occur. Serious side effects are rare when health providers are well-trained.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "Weekly treatment sessions may be recommended and sessions may take from 30 minutes to 2 hours, with the first appointment lasting longer. Sessions may vary in length because everybody is different.",
+          "How_soon": "It may help right away or it may take up to a few months to feel better. Everybody is different.",
+          "Cost": "Acupuncture may cost money depending on your health insurance.",
+          "where": "Acupuncturists provide this treatment. You can talk about it with your health care team to help you access it. ",
+          "what_else_to_consider": "It is important to see a well-trained acupuncturist who has experience with treating JIA. You may not feel comfortable with acupuncture because of the needles.",
+          "learn_more": [
+            "http://www.kidsgetarthritistoo.org/living-with-ja/medical-care/treatment/acupuncture.php",
+            "https://www.arthritis.org/living-with-arthritis/treatments/natural/other-therapies/mind-body-pain-relief/acupuncture-gets-respect.php",
+            "https://www.aboutkidshealth.ca/Article?contentid=1083&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2379&language=English"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Chiropractic",
+          "key_name": "Chiropractic",
+          "img": "16.jpg",
+          "category": ["Physical Treatments"],
+          "supervision": "hcp",
+          "evidence_level": 8,
+          "order_number": 34,
+          "description": "A professional uses his or her hands to align your spine.",
+          "traffic_light_level": 3,
+          "traffic_light_description": "Chiropractic treatments are not mentioned in guidelines for youth with JIA. They may not be recommended for some youth with JIA.",
+          "experts_suggest": "Chiropractic is not mentioned in guidelines for JIA.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether chiropractic treatments reduce pain for youth who have JIA. There isn’t enough research yet. ",
+              "study_results": null,
+              "is_safe": "Side effects include soreness, stiffness and headaches. More serious side effects are dislocations and fractures. Serious adverse events may be associated with pediatric manipulation of the spine.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "The first few sessions may be about 30 minutes each and follow-up visits may be as short as 5 to 10 minutes.",
+          "How_soon": "It is difficult to say because of the lack of research. Improvements may vary because everybody is different.",
+          "Cost": "Chiropractic may cost money depending on your health insurance.",
+          "where": "Chiropractors provide this treatment. It is important to discuss this treatment with your health care team to see if it is safe for you. ",
+          "what_else_to_consider": "If you use this treatment, it is important to see a well-trained chiropractor who has experience with treating JIA. You may not feel comfortable with receiving chiropractic treatments from a stranger.",
+          "learn_more": [
+            "https://www.aboutkidshealth.ca/Article?contentid=1083&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2379&language=English"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Osteopathy",
+          "key_name": "Osteopathy",
+          "img": "17.jpg",
+          "category": ["Physical Treatments"],
+          "supervision": "hcp",
+          "evidence_level": 7,
+          "order_number": 31,
+          "description": "Osteopathic manipulation includes hands-on-treatments that work on bones, muscles, and fascia to optimize the body’s alignment.",
+          "traffic_light_level": 2,
+          "traffic_light_description": "Osteopathy is not mentioned in guidelines for youth with JIA. They may be used by youth with JIA to manage pain after a discussion with their health care team.",
+          "experts_suggest": "Osteopathy is not mentioned in guidelines for JIA.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether osteopathy  reduces pain for youth who have JIA. There isn’t enough research yet. ",
+              "study_results": null,
+              "is_safe": "There are rare side effects when health providers are well-trained. Minor side effects are worsening of symptoms, irritability, soreness, headache, behaviour problems and pain. You may feel sore within 24 to 48 hours after the first session.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "The first few sessions may be about an hour each and follow-up visits may take up to 30 minutes. Weekly sessions may be recommended, but everybody is different.",
+          "How_soon": "It is difficult to say because of the lack of research. Improvements may vary because everybody is different.",
+          "Cost": "Osteopathy may take time to do and cost money depending on your health insurance.",
+          "where": "Osteopaths provide this treatment. You can talk about it with your health care team to help you access it. ",
+          "what_else_to_consider": "If you use this treatment, tt is important to see a well-trained osteopath who has experience with treating JIA. You may not feel comfortable with receiving osteopathic treatments from a stranger.",
+          "learn_more": [
+            "https://www.aboutkidshealth.ca/Article?contentid=1083&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2379&language=English"
+          ],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Educational Approaches",
+      "img": "educationApproach.jpeg",
+      "treatments": [
+        {
+          "treatment_name": "Educational Website",
+          "key_name": "Educational_Website",
+          "img": "18.jpg",
+          "category": ["Educational Approaches"],
+          "supervision": "sc",
+          "evidence_level": 1,
+          "order_number": 4,
+          "description": "A website with information about JIA, and strategies on how to manage JIA.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Educational websites are recommended by experts for youth with JIA. It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest in guidelines that youth with JIA may use self-management tools.",
+          "studies": [
+            {
+              "study_name": "Comparing an educational website to telephone support",
+              "does_it_work": "A study of 46 youth with JIA showed that internet self-management (“Teens Taking Charge”) may reduce pain better than telephone support after about 2 months.",
+              "study_results": [
+                {
+                  "study_result_name": "Educational Website",
+                  "happy_face_score": 39,
+                  "text": "39 out of 100 youth with JIA have less pain"
+                },
+                {
+                  "study_result_name": "Telephone Support",
+                  "happy_face_score": 14,
+                  "text": "14 out of 100 youth with JIA have less pain"
+                }
+              ],
+              "is_safe": "There were no side effects for youth with JIA in this study.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Forty-six youth with JIA were randomly divided into two groups. One group was assigned to an internet self-management program and the other received telephone support to discuss self-management strategies.",
+              "treatments": "The internet self-management program consisted of 20-30 minute modules completed weekly for 12 weeks and included self-management strategies, disease-specific information and social support that was available in English and French. Youth were contacted by a coach on a weekly basis to review the previous week’s module, homework and goals and to provide guidance and help solve problems. Youth also developed their own personal goals for the program and kept track of their progress in a journal. The telephone support program included weekly phone calls with a trained research assistant to discuss the adolescent’s best efforts at managing their JIA.",
+              "results": "Internet self-management reduced pain better than telephone support:according to our calculations,25% more people improved in the internet self-management group compared to the telephone support group.",
+              "reference": "Stinson, J. N., McGRATH, P. J., Hodnett, E. D., Feldman, B. M., Duffy, C. M., Huber, A. M., ... & Campillo, S. (2010). An internet-based self-management program with telephone support for adolescents with arthritis: a pilot randomized controlled trial.The Journal of Rheumatology,37(9), 1944-1952.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/20595280"
+            }
+          ],
+          "how_to_use_treatment": "An educational website can take as little as 10 minutes and as long as an hour or two to browse. It will depend how long you wish to use it for. It can give you many tricks to help manage your arthritis and your pain.",
+          "How_soon": "It may take about 3 months to feel better, but everybody is different.",
+          "Cost": "This intervention is free since it is accessible online.",
+          "where": "The “Teens Taking Charge” program is online (see link below). There are also other educational websites for JIA online.",
+          "what_else_to_consider": "You can look at the various educational programs and find the one you like the most to help you manage your arthritis and your pain.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen",
+            "http://www.bcchildrens.ca/rheumatology-site/Documents/Youyourchild1.pdf",
+            "https://www.msk.org.au/juvenile-idiopathic-arthritis/",
+            "https://www.cincinnatichildrens.org/health/j/jra",
+            "https://arthritisaustralia.com.au/managing-arthritis/arthritis-and-children/living-with-jia/",
+            "https://www.rchsd.org/documents/2014/02/juvenile-idiopathic-arthritis-for-teens.pdf/"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Joint Protection Program",
+          "key_name": "Joint_Protection_Program",
+          "img": "19.jpg",
+          "category": ["Educational Approaches"],
+          "supervision": "sc",
+          "evidence_level": 2,
+          "order_number": 9,
+          "description": "Information on what you can do to avoid hurting your joints.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Joint protection programs seem to be effective and safe for adults with rheumatoid arthritis (RA). They may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest that youth with JIA can use joint protection programs.",
+          "studies": [
+            {
+              "study_name": "Comparing joint protection program to a standard educational program",
+              "does_it_work": "A study of 127 adults with RA showed that joint protection programs reduce pain more than standard educational programs. Note that there were no studies in JIA.",
+              "study_results": [
+                {
+                  "study_result_name": "Joint Protection Program",
+                  "happy_face_score": 39,
+                  "text": "39 out of 100 adults with RA have less pain"
+                },
+                {
+                  "study_result_name": "Standard Educational Program",
+                  "happy_face_score": 22,
+                  "text": "22 out of 100 adults with RA have less pain"
+                }
+              ],
+              "is_safe": "There are rare side effects.",
+              "should_believe_research": "Probably; it is a moderate-quality study. It means that these results are probably true.",
+              "star_rating": 3,
+              "methods": "One hundred and twenty-seven adults with RA were randomly divided into two groups. One group attended the joint protection plan and the other was assigned to attend the standard plan. Assessments were made at baseline, then after six and after twelve months.",
+              "treatments": "Joint protection plan (information pack, workbook with the principles of joint protection with photographs of these methods) vs. Standard plan (short talks on drug treatments, alternative therapies, diet, exercise, rest and positioning, energy conservation, joint protection, assistive devices, splinting, pain and relaxation and other methods, demonstration and practice of exercise, joint protection and relaxation was included –15 to 45 minutes for each).",
+              "results": "Joint protection plan reduced pain better than the standard plan:according to our calculations,17% more people improved in the joint protection plan group compared to the standard plan group",
+              "reference": "Hammond, A., & Freeman, K. (2001). One‐year outcomes of a randomized controlled trial of an educational–behavioural joint protection plan for people with rheumatoid arthritis.Rheumatology,40(9), 1044-1051.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/11561117"
+            }
+          ],
+          "how_to_use_treatment": "When provided by health professionals, sessions can last about forty-five minutes to an hour. However, you can read online about it and spend less time on it. You can use joint protection techniques  every day to help protect your joints.  These include  resting before you are tired, stop an activity before feeling pain and  using  stronger joints to do activities.",
+          "How_soon": "You may feel better each time you use joint protection techniques but it may take a few months to feel better. Everybody is different.",
+          "Cost": "Joint protection programs may take time and may cost money if provided by a health professional. Your health insurance may cover some of these costs.",
+          "where": "Occupational therapists and other health professionals usually provide this treatment. You can talk about it with your health care team to get information on joint protection. You can also find information online (see links below).",
+          "what_else_to_consider": "You can try different ways to protect your joints and see what helps you the most.",
+          "learn_more": [
+            "http://www.kznhealth.gov.za/occtherapy/jointprotectionprinciples.pdf",
+            "https://www.arthritis.org/living-with-arthritis/pain-management/joint-protection/joint-health.php"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Sleep Routine",
+          "key_name": "Sleep_Routine",
+          "img": "20.jpg",
+          "category": ["Educational Approaches", "Relax"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 20,
+          "description": "A sleep routine is a variety of different habits that may help to have a good night-time sleep.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Sleep routines are recommended by experts for youth. It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts recommend for teens to sleep continuously for 8 to 10 hours each night, with consistent bed and wake-up times. ",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether a good sleeping routine reduces pain for youth who have JIA. There isn’t enough research yet. However, we know that better sleep can reduce your pain. ",
+              "study_results": [],
+              "is_safe": "There are no side effects.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "You can use a sleep routine each night to help you fall asleep and have a good sleep at night. You can go to bed and wake up at the same time every day, do relaxing activities before going to sleep and avoid using electronic devices before going to bed. ",
+          "How_soon": "You may feel better in the morning if you slept well at night. It may take a few months to have less pain, but everybody is different.",
+          "Cost": "Information on sleep routines may cost money if provided by a health professional. Your health insurance may cover some of these costs. You can avoid the cost by reading about it online.",
+          "where": "You can talk about it with your health care team or find information online (see links below).",
+          "what_else_to_consider": "You can use different ways to help you sleep well and find the best sleep routine for you.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2626&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2394&language=English",
+            "http://www.kidsgetarthritistoo.org/living-with-ja/medical-care/pain-and-symptoms/mood-pain-and-sleep.php",
+            "https://www.nras.org.uk/data/files/Publications/29562%20NRAS%20Sleep%20Matters%206pp%20DL%20leaflet%20%28Prf2%29.pdf",
+            "https://arthritisaustralia.com.au/managing-arthritis/arthritis-and-children/6387-2/"
+          ],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Psychological & Spiritual Approaches",
+      "img": "underconstruction.png",
+      "treatments": [
+        {
+          "treatment_name": "Distraction",
+          "key_name": "Distraction",
+          "img": "21.jpg",
+          "category": ["Psychological & Spiritual Approaches", "Immediate Relieve", "Relax"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 16,
+          "description": "Techniques and strategies you can use to stop focusing on the pain.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Distraction is recommended by experts for pain management in JIA. It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Experts suggest that distraction can be used for pain management in JIA. It can be used during painful procedures.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether distraction reduces pain for youth who have JIA. There isn’t enough research yet. ",
+              "study_results": [],
+              "is_safe": "There are rare side effects.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "You can use distraction each time you have pain. You can think of things you really enjoy, play games like counting and do activities such as listening to music and talking to friends.",
+          "How_soon": "You may feel better when you use distraction, but everybody is different.",
+          "Cost": "Distraction takes time to do and may cost money if provided by a health professional. The costs can be avoided by doing distraction on your own.",
+          "where": "You can talk about it with your health care team or find information online (see links below).",
+          "what_else_to_consider": "You can use different distraction methods and find the one that works best for you.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2590&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2367&language=English",
+            "http://www.sickkids.ca/patient-family-resources/Child-Life/coping-with-a-health-care-experience/Comfort-Kit/index.html",
+            "https://www.aci.health.nsw.gov.au/chronic-pain/painbytes/pain-and-mind-body-connection/how-can-distraction-be-used-to-manage-pain",
+            "http://americanpainsociety.org/uploads/education/PAMI_Distraction_Toolkit.pdf",
+            "http://pami.emergency.med.jax.ufl.edu/resources/distraction-toolkit/"
+          ],
+          "videos": [
+            "https://www.youtube.com/watch?v=uKD4k_DUf_Y"
+          ]
+        },
+        {
+          "treatment_name": "Relaxation",
+          "key_name": "Relaxation",
+          "img": "22.jpg",
+          "category": ["Psychological & Spiritual Approaches", "Immediate Relieve", "Relax"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 13,
+          "description": "Techniques and strategies you can use to be calm.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Relaxation is recommended by experts for pain management in JIA. It may be used by youth with JIA to manage pain. ",
+          "experts_suggest": "Experts suggest that relaxation can be used for pain management in JIA. It can be used during painful procedures.",
+          "studies": [
+            {
+              "study_name": "Comparing relaxation techniques to massage",
+              "does_it_work": "A study of 20 youth with JIA showed that massage may reduce pain better than relaxation after 1 month. However, some of the youth with JIA still improved with relaxation. Some relaxation techniques, such as guided imagery, may also help reduce pain among youth and adults with chronic pain.",
+              "study_results": [
+                {
+                  "study_result_name": "Massage",
+                  "happy_face_score": 96,
+                  "text": "96 out of 100 youth with JIA have less pain"
+                },
+                {
+                  "study_result_name": "Relaxation",
+                  "happy_face_score": 12,
+                  "text": "12 out of 100 youth with JIA have less pain"
+                }
+              ],
+              "is_safe": "There were no side effects for youth with JIA.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Twenty youth with JIA were randomly divided into two groups. One group received massage therapy and the other group received relaxation therapy.",
+              "treatments": "The massage therapy group received a daily 15-minute massage by one of their parents for 30 days. During the massage, the child was first placed in a supine position and the parent applied oil and stroked the child’s face, stomach, legs and arms. Then, in a prone position, the child’s back was massaged. The relaxation therapy group experienced a 15-minute relaxation session with one of their parents (who received training and written instructions) for 30 days. During the relaxation session, the child laid on his/her back and was instructed to tighten and relax different muscles in the face, back, arms, hands, thighs, calves and feet.",
+              "results": "Massage therapy reduced pain better than relaxation therapy:according to our calculations,84% morepeople improved in the massage group compared to the relaxation group. ",
+              "reference": "Field, T., Hernandez-Reif, M., Seligmen, S., Krasnegor, J., Sunshine, W., Rivas-Chacon, R., ... & Kuhn, C. (1997). Juvenile rheumatoid arthritis: benefits from massage therapy.Journal of pediatric Psychology,22(5), 607-617.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/9383925"
+            }
+          ],
+          "how_to_use_treatment": "You may use different types of relaxation techniques and breathing exercises daily.",
+          "How_soon": "You may feel better after practicing relaxation, but everybody is different.",
+          "Cost": "Relaxation takes time to do and may cost money if provided by a health professional. The costs can be avoided by doing relaxation on your own.",
+          "where": "You can talk about it with your health care team or find information online (see links below).",
+          "what_else_to_consider": "You can try different types of relaxation and find the one that works best for you.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2585&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2353&language=English",
+            "https://teenstakingcharge.carragroup.org/en/jiateen",
+            "https://www.parksmed.co.uk/wp-content/uploads/2013/09/Pain-Toolkit-for-teenagers.pdf",
+            "https://patienteducation.osumc.edu/Documents/relaxbre.pdf",
+            "https://www.aboutkidshealth.ca/Article?contentid=3008&language=English",
+            "https://www.painmanagement.org.au/2014-09-11-13-35-53/2014-09-11-13-36-47/176-progressive-muscle-relaxation.html",
+            "http://www.kidsgetarthritistoo.org/living-with-ja/medical-care/treatment/mind-over-pain.php"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Hypnosis",
+          "key_name": "Hypnosis",
+          "img": "23.jpg",
+          "category": ["Psychological & Spiritual Approaches"],
+          "supervision": "hcp",
+          "evidence_level": 7,
+          "order_number": 32,
+          "description": "A professional puts you in a sleepy state to relax your mind.",
+          "traffic_light_level": 2,
+          "traffic_light_description": "Hypnosis is not mentioned in guidelines made by experts as a treatment for pain in JIA. They may be used by youth with JIA to manage pain after a discussion with their health care team.",
+          "experts_suggest": "Guidelines in JIA do not mention hypnosis.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether hypnosis reduces pain for youth who have JIA. There isn’t enough research yet in JIA. However, hypnosis may help reduce pain among adults.",
+              "study_results": null,
+              "is_safe": "Side effects include emotional upset, headache, vomiting, fainting, and crying.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "A general hypnotherapy session may take about an hour. Weekly visits may be recommended, but everybody is different.",
+          "How_soon": "It will depend on each person and on your health professional’s recommendations. It may take up to a few months to feel better.",
+          "Cost": "The intervention takes time to do and may cost money if provided by a health professional. Your health insurance may cover some of these costs.",
+          "where": "Your health care team can help you access this treatment. Psychologists and hypnotherapists usually provide this treatment.",
+          "what_else_to_consider": "It is important to see a well-trained professional. You may not feel comfortable with receiving hypnosis.",
+          "learn_more": [
+            "http://www.cfp.ca/content/53/5/823"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Mindfulness",
+          "key_name": "Mindfulness",
+          "img": "24.jpg",
+          "category":["Psychological & Spiritual Approaches", "Immediate Relieve", "Relax"],
+          "supervision": "sc",
+          "evidence_level": 6,
+          "order_number": 30,
+          "description": "When you focus and pay attention to how you feel in the moment. ",
+          "traffic_light_level": 2,
+          "traffic_light_description": "Mindfulness is not mentioned in guidelines made by experts as a treatment for pain in JIA. It may be used by youth with JIA to manage pain.",
+          "experts_suggest": "Guidelines in JIA do not mention mindfulness.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether mindfulness reduces pain for youth who have JIA. There isn’t enough research yet.",
+              "study_results": null,
+              "is_safe": "There are rare side effects.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "You may use mindfulness daily.",
+          "How_soon": "You may feel better after practicing mindfulness, but everybody is different. ",
+          "Cost": "The intervention takes time to do and may cost money if provided by a health professional. The costs can be avoided by doing mindfulness on your own.",
+          "where": "You can talk about it with your health care team or find information online (see links below).",
+          "what_else_to_consider": "You can try different types of mindfulness techniques and find the one that works best for you.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2591&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2383&language=English",
+            "https://teens.aboutkidshealth.ca/Article?contentid=2592&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2384&language=English",
+            "http://parentingchaos.com/anxiety-apps-kids"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Cognitive-Behavioural Therapy",
+          "key_name": "Cognitive-Behavioural_Therapy",
+          "img": "25.jpg",
+          "category": ["Psychological & Spiritual Approaches", "Educational Approaches"],
+          "supervision": "hcp",
+          "evidence_level": 6,
+          "order_number": 28,
+          "description": "A treatment usually directed by a professional and which focuses on the way you think and act to encourage healthy living.",
+          "traffic_light_level": 2,
+          "traffic_light_description": "Cognitive-behavioural therapy is not mentioned in guidelines made by experts as a treatment for pain in JIA. They may be used by youth with JIA to manage pain after a discussion with their health care team. ",
+          "experts_suggest": "Guidelines in JIA do not mention cognitive-behavioural therapy.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether cognitive-behavioural therapy reduces pain for youth who have JIA. There isn’t enough research yet in JIA. However, cognitive-behavioural therapy seems to help reduce pain among adults with chronic pain.",
+              "study_results": null,
+              "is_safe": "There are rare no side effects.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "Weekly treatment sessions of about 30 to 60 minutes may be recommended, with the first appointment lasting longer. Within these sessions, professionals can help you find ways to manage your pain, such as guided imagery or meditative breathing. ",
+          "How_soon": "You may feel better after 12 to 20 sessions, but everybody is different. It can vary depending on your health professional’s recommendations.",
+          "Cost": "The intervention takes time to do and may cost money if provided by a health professional such as a psychologist. Your health insurance may cover some of these costs.",
+          "where": "Your healthcare team can help you access this treatment. Psychologists usually provide this treatment. ",
+          "what_else_to_consider": "It is important to see a well-trained professional. ",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2612&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2378&language=English",
+            "https://www.zoffness.com/what-is-cbt/",
+            "https://notes.childrenshospital.org/psychological-interventions-for-chronic-pediatric-pain/"
+          ],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pain Medications",
+      "img": "painMedications.jpeg",
+      "treatments": [
+        {
+          "treatment_name": "NSAIDs in Pills",
+          "key_name": "NSAIDs_in_Pills",
+          "img": "26.jpg",
+          "category": ["Pain Medications", "Immediate Relieve"],
+          "supervision": "hcp",
+          "evidence_level": 3,
+          "order_number": 10,
+          "description": "A pill that could block the production of certain chemicals in your body that cause inflammation. It may reduce pain, fever, and inflammation. (e.g., Aleve®, Naprosyn®, Indocid®, Advil®).",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Nonsteroidal anti-inflammatory drugs (NSAIDs) in pills are recommended by experts for pain in JIA. NSAIDs may be used by youth with JIA to manage pain after a discussion with their health care team. NSAIDs may also be prescribed to reduce inflammation.",
+          "experts_suggest": "Experts suggest that NSAIDs in pills can be used for pain management in JIA.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether NSAIDs reduce pain for youth who have JIA. There isn’t enough research yet. Studies on adults with rheumatoid arthritis (RA) show that Celecoxib and Naproxen are moderately effective. There are not a lot of studies looking at arthritis pain since NSAIDs are often used to reduce inflammation. ",
+              "study_results": null,
+              "is_safe": "Most people feel fine after taking NSAIDs, but your stomach may hurt and you may have stomach bleeding. In rare cases, NSAIDs can cause a rash, and affect sleep, how you behave and your kidneys. If NSAIDs are contraindicated, a COX-2 inhibitor such as Celecoxib or Meloxicam might be used. NSAIDS should be stopped 7-10 days before a surgery. ",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "It is important to talk with your health care team first before using this treatment. If your health care team has prescribed NSAIDs for you, it is important to keep taking them. You may be able to use NSAIDs when you have pain according to your physician’s advice. Dosing is dependent on age and weight and it should be the lowest dose possible. Only one NSAID (in pills or creams) or COX-2 inhibitor should be used at the same time. It may be given to children who are on methotrexate. ",
+          "How_soon": "NSAIDs in pills may start working within a few hours, but everybody is different.",
+          "Cost": "NSAIDs may cost money depending on your health insurance.",
+          "where": "Your healthcare team can help you access this treatment. NSAIDs are also available over the counter.",
+          "what_else_to_consider": "You may need to try different kinds of NSAIDs to find one that works well for you. You have to take NSAIDs with food. Liquid forms are available for children who can’t swallow tablets.  ",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2596&language=English&hub=jiateenhub",
+            "https://www.aboutkidshealth.ca/Article?contentid=1069&language=English ",
+            "https://www.jia.org.uk/nsaids-for-children-and-young-people "
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Acetaminophen (Tylenol®)",
+          "key_name": "Acetaminophen",
+          "img": "27.jpg",
+          "category": ["Pain Medications", "Immediate Relieve"],
+          "supervision": "hcp",
+          "evidence_level": 3,
+          "order_number": 11,
+          "description": "Medicine that helps with pain and fever (also called Paracetamol, for example; Tylenol®). ",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Acetaminophen (Tylenol®) is recommended by experts for pain in JIA. Acetaminophen may be used by youth with JIA to manage pain after a discussion with their health care team. ",
+          "experts_suggest": "Experts suggest that acetaminophen can be used for moderate pain in JIA. ",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether Acetaminophen reduces pain for youth who have JIA. There isn’t enough research yet. There are a few old studies of low quality that tested Acetaminophen for adults with rheumatoid arthritis (RA) pain. It shows that acetaminophen may help reduce pain. ",
+              "study_results": null,
+              "is_safe": "There are few side effects, but at higher doses, it can be toxic to the liver. ",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "It is important to talk with your health care team first before using this treatment since it may interact with other medication. You may be able to use Acetaminophen when you have pain according to your physician’s advice. Dosing is dependent on age and weight and it should be the lowest dose possible.",
+          "How_soon": "It may take up to 45 minutes for an oral, liquid, or tablet acetaminophen to start working. You may feel better for up to 4 hours, but everybody is different.",
+          "Cost": "Acetaminophen costs money.",
+          "where": "Acetaminophen is available over the counter.",
+          "what_else_to_consider": "Liquid forms are available for children who can’t swallow tablets.  ",
+          "learn_more": [
+            "https://www.aboutkidshealth.ca/Article?contentid=62&language=English",
+            "https://www.health.harvard.edu/pain/where-to-turn-for-pain-relief-acetaminophen-or-nsaids"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "NSAIDs in Creams",
+          "key_name": "NSAIDs_in_Creams",
+          "img": "28.jpg",
+          "category": ["Pain Medications", "Immediate Relieve"],
+          "supervision": "hcp",
+          "evidence_level": 7,
+          "order_number": 33,
+          "description": "A cream (i.e., Voltaren®) that is rubbed on the joints and may help with pain, fever and inflammation. ",
+          "traffic_light_level": 2,
+          "traffic_light_description": "NSAIDs in cream (Voltaren®) are not recommended in guidelines made by experts. They may sometimes be used by youth with JIA to manage pain after a discussion with their health care team.",
+          "experts_suggest": "Experts in guidelines suggest that NSAIDs in creams (Voltaren®) are not recommended and should be avoided in JIA due to lack of scientific proofs. However, clinicians sometimes recommend them in practice.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether NSAIDs in creams reduce pain for youth who have JIA. There isn’t enough research yet in JIA. A review of the literature showed that they may reduce pain in adults with osteoarthritis (which is another type of arthritis).",
+              "study_results": "null",
+              "is_safe": "There are few side effects such as skin irritation. NSAIDs in creams should not be used in combination with other oral NSAIDs as it may increase the dose.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "It is important to talk with your health care team first before using this treatment.",
+          "How_soon": "NSAIDs in creams may take a few hours before you feel better, but everybody is different.",
+          "Cost": "NSAIDs in cream may cost money depending on your health insurance.",
+          "where": "NSAIDs in cream can be available over the counter or as prescription drugs depending on where you live.",
+          "what_else_to_consider": null,
+          "learn_more": [],
+          "videos": []
+        },
+        {
+          "treatment_name": "Opioids",
+          "key_name": "Opioids",
+          "img": "29.jpg",
+          "category": ["Pain Medications"],
+          "supervision": "hcp",
+          "evidence_level": 9,
+          "order_number": 37,
+          "description": "Opioids are a class of drugs naturally found in the opium poppy plant, that are often used in medicines to relax the body by blocking certain pain receptors to reduce pain. (E.g., morphine, codeine, oxycodone (OxyContin®)).",
+          "traffic_light_level": 3,
+          "traffic_light_description": "Opioids are usually not recommended by experts to manage pain in JIA because they have serious side effects. Youth should try other treatments before thinking about trying this treatment.",
+          "experts_suggest": "Opioids are not recommended in JIA guidelines for most patients. They are a last resort for JIA pain, because of the potential dangerous side effects.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether opioids reduce pain for youth who have JIA. There isn’t enough research yet in JIA.",
+              "study_results": null,
+              "is_safe": "You can become addicted to them  and they can cause slow breathing which could make you faint. Other possible side effects include constipation, drowsiness, itchiness, nausea, vomiting, mood changes and hallucinations.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "If you have severe pain that is not going away with other treatments, opioids may be an option to discuss with your health care team. The use of opioids is often monitored by a chronic pain team.",
+          "How_soon": "It may take about 20 to 30 minutes for opioids to start working and may last up to 4 hours to feel better, but everybody is different. ",
+          "Cost": "Opioids may cost money depending on your health insurance.",
+          "where": "Your healthcare team can give you information about opioids if it is indicated for you. It is very important not to take any opioids that are not prescribed to you because you do not know what the medication contains and it may be very dangerous. Also, it is very dangerous to give opioids to other people that were not prescribed this drug.",
+          "what_else_to_consider": null,
+          "learn_more": [
+            "https://www.aboutkidshealth.ca/Article?contentid=1075&language=English"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Cannabis_Marijuana",
+          "key_name": "Cannabis_Marijuana",
+          "img": "30.jpg",
+          "category": ["Pain Medications"],
+          "supervision": "hcp",
+          "evidence_level": 9,
+          "order_number": 38,
+          "description": "A substance that can be taken in various forms (as a pill, oil or inhaled) that comes from a marijuana plant that may cause heightened perception, affect mood and can cause relaxation.",
+          "traffic_light_level": 3,
+          "traffic_light_description": "Marijuana is not recommended by experts for JIA pain because it has not shown to be helpful and has serious side effects for the developing brain. Youth should try other treatments before thinking about trying this treatment. It is important to have a discussion about it with your health care team if you wish to use it.",
+          "experts_suggest": "Cannabis or Marijuana are not recommended in JIA guidelines.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether Cannabis and marijuana reduce pain for youth who have JIA. There isn’t enough research yet.",
+              "study_results": null,
+              "is_safe": "Serious side effects include brain changes, mood changes, anxiety, depression, a fast heartbeat, and it can make day-to-day tasks harder to do. It can also be addictive, meaning that having a bit could make you want more and more, even if you don’t need it. When marijuana is smoked, tars end up in your lungs, which could lead to cancer.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "You can discuss this treatment with your health care team if have questions about Marijuana/cannabinoids.",
+          "How_soon": "It is difficult to say because of the lack of research. Improvements may vary depending on the type of product used and each person’s characteristics.",
+          "Cost": "Marijuana/cannabinoids may cost money. Health insurance may cover some of these costs.",
+          "where": "Your healthcare team can give you information about Marijuana/cannabinoids/cannabinoid oils if it is indicated for you. It is very important to talk about it with your health care team if you have been using it on your own since these products can interact with your JIA treatments.",
+          "what_else_to_consider": "It may be illegal depending on where you live.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2629&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2937&language=English"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Acetylsalicylic Acid (Aspirin®)",
+          "key_name": "Aspirin",
+          "img": "31.jpg",
+          "category": ["Pain Medications"],
+          "supervision": "hcp",
+          "evidence_level": 9,
+          "order_number": 39,
+          "description": "A pill that is commonly used as a possible pain reliever for minor aches and to reduce fever. It is also called ASA (acetylsalicylic acid) (another brand name is Motrin®).",
+          "traffic_light_level": 3,
+          "traffic_light_description": "Aspirin® is not recommended for youth with JIA.",
+          "experts_suggest": "Aspirin® is not recommended in JIA guidelines, because this treatment can cause the Reye syndrome among youth.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "There isn’t enough research.",
+              "study_results": null,
+              "is_safe": "Aspirin® can cause Reye syndrome (a disease that can lead to permanent brain injury or death that can appear after a virus like a cold, flu, or chicken pox) in youth which affects the brain and liver and is very dangerous.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "You can discuss this treatment with your health care team if you have questions about Aspirin®.",
+          "How_soon": null,
+          "Cost": "Aspirin® can cost money. Health insurance may cover some of these costs.",
+          "where": "Aspirin® should be discussed with your health care team. It can be purchased over the counter in pharmacies.",
+          "what_else_to_consider": null,
+          "learn_more": [],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nutrition",
+      "img": "nutrition.jpeg",
+      "treatments": [
+        {
+          "treatment_name": "Healthy Diet",
+          "key_name": "healthy_diet",
+          "img": "32.jpg",
+          "category": ["Nutrition"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 21,
+          "description": "A balanced diet of vegetables, fruits, protein, and whole grains that helps you stay healthy.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "A healthy diet is recommended by experts for all. It should be used to stay healthy and may be used by youth with JIA to manage pain.",
+          "experts_suggest": "A healthy diet is recommended for all.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether a healthy diet reduces pain for youth who have JIA. There isn’t enough research yet. It may reduce inflammation, but each person is different.",
+              "study_results": null,
+              "is_safe": "There are no side effects except potential intolerances and allergies to some foods.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "Youth and caregivers can look online or talk to their health care team for ways to have a healthy diet. One of the best ways to eat well is to prepare you own food instead of eating processed food.",
+          "How_soon": "It may take up to a few months to feel better, but everybody is different.",
+          "Cost": "The intervention takes time to do. Food costs can vary.",
+          "where": "You can read online for information and look at Canada’s Food Guide and the Dietary Guidelines for Americans online.",
+          "what_else_to_consider": "Healthy eating may be slightly more expensive and not as convenient because of meals cooked at home.",
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2609&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2375&language=English",
+            "https://www.aboutkidshealth.ca/Article?contentid=1081&language=English",
+            "https://food-guide.canada.ca/en/",
+            "ttps://health.gov/dietaryguidelines/2015/",
+            "https://www.jia.org.uk/diet-and-jia",
+            "https://www.arthritis.org/about-arthritis/types/juvenile-idiopathic-arthritis-jia/self-care.php"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Mediterranean Diet",
+          "key_name": "mediterranean_diet",
+          "img": "33.jpg",
+          "category": ["Nutrition"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 24,
+          "description": "A diet that mainly includes on fruits and vegetables, whole grains, beans, fish and olive oil, that helps you stay healthy.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Mediterranean diets are often recommended by dieticians. It should be used to stay healthy and may be used by youth with JIA to help manage pain.",
+          "experts_suggest": "The Mediterranean diet is often recommended by dieticians.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "The Mediterranean diet may reduce inflammation. Researchers need to explore whether a healthy diet reduces pain for youth who have JIA. There isn’t enough research yet in JIA. However, the Mediterranean diet seems to help reduce pain among adults with rheumatoid arthritis.",
+              "study_results": null,
+              "is_safe": "There are no known side effects except potential intolerances and allergies to some foods.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "Youth and caregivers can look online or talk to their health care team for specific guidelines for this diet.",
+          "How_soon": "It may take up to a few months to feel better, but everybody is different.",
+          "Cost": "Food costs can vary.",
+          "where": "You can find Mediterranean diet guidelines online.",
+          "what_else_to_consider": "Following a Mediterranean diet may be slightly more expensive and not as convenient because of meals that have to be cooked at home.",
+          "learn_more": [
+            "https://www.jia.org.uk/diet-and-jia",
+            "https://www.arthritis.org/living-with-arthritis/arthritis-diet/anti-inflammatory/anti-inflammatory-diet.php"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Fish Oil (Omega-3)",
+          "key_name": "fish_oil",
+          "img": "34.jpg",
+          "category": ["Nutrition"],
+          "supervision": "hcp",
+          "evidence_level": 5,
+          "order_number": 26,
+          "description": "A pill with an oil that comes from fish that may keep you healthy.",
+          "traffic_light_level": 2,
+          "traffic_light_description": "Fish oil is not mentioned in clinical practice guidelines for youth with JIA. They may be used by youth with JIA to manage pain after a discussion with their health care team.",
+          "experts_suggest": "Fish oil (Omega-3) is not mentioned in JIA guidelines.",
+          "studies": [
+            {
+              "study_name": "Comparing fish oil to a placebo",
+              "does_it_work": "A study of 97 of adults with RA showed that fish oil (Omega-3) may reduce pain better than placebo, which is a fake pill after 9 months. Note that there were no studies in JIA.",
+              "study_results": [
+                {
+                  "study_result_name": "Fish Oil",
+                  "happy_face_score": 33,
+                  "text": "33 out of 100 adults with RA have less pain"
+                },
+                {
+                  "study_result_name": "Placebo (fake pill)",
+                  "happy_face_score": 15,
+                  "text": "15 out of 100 adults with RA have less pain"
+                }
+              ],
+              "is_safe": "In the study there were no more side effects in the treatment than the placebo. ",
+              "should_believe_research": "Probably;  it is a moderate-quality study. It means that these results are probably true.",
+              "star_rating": 3,
+              "methods": "Fifty-eight adults with rheumatoid arthritis were randomly divided into two groups. One group received cod liver oil and the other group received placebo capsules.",
+              "treatments": "The cod liver oil contained n-3 essential fatty acids (EFAs) and the placebo was an identical capsule. Both were taken daily for 9 months.",
+              "results": "The cod liver oil reduced pain better than the placebo capsules:according to our calculations,18% more people improved in the cod liver group compared to the placebo group.",
+              "reference": "Galarraga, B., Ho, M., Youssef, H. M., Hill, A., McMahon, H., Hall, C., ... & Belch, J. J. F. (2008). Cod liver oil (n-3 fatty acids) as a non-steroidal anti-inflammatory drugs paring agent in rheumatoid arthritis.Rheumatology,47(5), 665-669.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/18362100"
+            }
+          ],
+          "how_to_use_treatment": " It is suggested to first discuss with your health care team about taking fish oils. Doses of Cod liver oil supplements contain vitamin A. If you are taking other multivitamins, it is important to ensure the total dose is below 9,000 international units per day. Cod liver oil supplements also contain vitamin D (usually 400 international units) and may contain vitamin E in low doses.",
+          "How_soon": "It may take up to a few months to feel better, but everybody is different.",
+          "Cost": "Fish oil can cost money.",
+          "where": "Fish oil can be purchased over the counter in stores.",
+          "what_else_to_consider": "It is better to have a healthy diet than to use supplements and have an unhealthy diet. Including fish oil in your diet may be slightly more expensive.",
+          "learn_more": [
+            "https://www.jia.org.uk/diet-and-jia",
+            "https://arthritisaustralia.com.au/managing-arthritis/living-with-arthritis/complementary-treatments-and-therapies/fish-oils"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Glucosamine Hydrochloride (Continued)",
+          "key_name": "glucosamine_hydrochloride",
+          "img": "35.jpg",
+          "category": ["Nutrition"],
+          "supervision": "hcp",
+          "evidence_level": 5,
+          "order_number": 27,
+          "description": "A pill that is used as a supplement with an amino sugar (glucosamine) that our body naturally produces to help make a “cushion” that surrounds our joints (also can be found in shellfish or created in a laboratory).",
+          "traffic_light_level": 2,
+          "traffic_light_description": "Glucosamine hydrochloride is not mentioned in guidelines for youth with JIA. They may be used by youth with JIA to manage pain after a discussion with their health care team.",
+          "experts_suggest": "Glucosamine hydrochloride is not mentioned in JIA guidelines. ",
+          "studies": [
+            {
+              "study_name": "Comparing glucosamine hydrochloride to a placebo",
+              "does_it_work": "A study of 51 adults with RA showed that glucosamine hydrochloride may reduce pain better than placebo after 3 months.",
+              "study_results": [
+                {
+                  "study_result_name": "Glucosamine Hydrochloride",
+                  "happy_face_score": 49,
+                  "text": "49 out of 100 adults with RA have less pain"
+                },
+                {
+                  "study_result_name": "Placebo",
+                  "happy_face_score": 15,
+                  "text": "15 out of 100 adults with RA have less pain"
+                }
+              ],
+              "is_safe": "There were no reported side effects of glucosamine hydrochloride in this study. Individuals with allergies to shellfish should avoid glucosamine.",
+              "should_believe_research": "Not sure; it is a low-quality study. It means that we are not sure about these results.",
+              "star_rating": 2,
+              "methods": "Fifty-one adults with rheumatoid arthritis were randomly divided into two groups. One group was given glucosamine hydrochloride tablets and the other group was given placebo tablets. ",
+              "treatments": "A daily dose of glucosamine hydrochloride was administered for 12 weeks. Participants were instructed to continue their previous treatment for rheumatoid arthritis in addition to the glucosamine or placebo.",
+              "results": "Glucosamine hydrochloride reduces pain better than placebo:according to our calculations,34% more people improved in the glucosamine hydrochloride group compared to the placebo group.",
+              "reference": "Nakamura, H., Masuko, K., Yudoh, K., Kato, T., Kamada, T., & Kawahara, T. (2007). Effects of glucosamine administration on patients with rheumatoid arthritis.Rheumatology international,27(3), 213-218.",
+              "pubMed_link": "https://www.ncbi.nlm.nih.gov/pubmed/16953394"
+            }
+          ],
+          "how_to_use_treatment": "It is suggested to first discuss with your health care team about taking this glucosamine hydrochloride.",
+          "How_soon": "Improvements vary, but everybody is different.",
+          "Cost": "Glucosamine hydrochloride costs money.",
+          "where": "Glucosamine hydrochloride can be purchased over the counter in stores.",
+          "what_else_to_consider": "In osteoarthritis, glucosamine sulfate seems to work better. However, it is another type of arthritis. It is be better to have a healthy diet than to use supplements and have an unhealthy diet.",
+          "learn_more": [
+            "https://arthritisaustralia.com.au/managing-arthritis/living-with-arthritis/complementary-treatments-and-therapies/glucosamine-and-chondroitin/"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Vitamin D",
+          "key_name": "Vitamin_D",
+          "img": "36.jpg",
+          "category": ["Nutrition"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 22,
+          "description": "A vitamin that you get from the sun and some foods and that is good for your bones.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Vitamin D is needed to maintain a healthy diet. ",
+          "experts_suggest": "Youth and teens should take a minimum of 600 international units of Vitamin D per day to ensure good bone health. Typical diets are deficient in vitamin D. A supplement of 400-1,000 international units per day is recommended.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether Vitamin D reduces pain for youth who have JIA. There isn’t enough research yet in JIA. However, Vitamin D may help reduce pain among adults.",
+              "study_results": null,
+              "is_safe": "It is important not to exceed 4,000 international units per day.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "You may wish to take vitamin D according to instructions provided by your health care team or you pharmacist.",
+          "How_soon": "It may take up to a few months to feel better, but everybody is different.",
+          "Cost": "Vitamin D supplements costs money.",
+          "where": "Vitamin D supplements can be purchased over the counter in stores.",
+          "what_else_to_consider": null,
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2609&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2375&language=English",
+            "https://www.aboutkidshealth.ca/Article?contentid=1081&language=English",
+            "https://www.jia.org.uk/diet-and-jia"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Calcium",
+          "key_name": "Calcium",
+          "img": "37.jpg",
+          "category": ["Nutrition"],
+          "supervision": "sc",
+          "evidence_level": 4,
+          "order_number": 23,
+          "description": "A nutrient that you get from certain foods and that is good for your bones.",
+          "traffic_light_level": 1,
+          "traffic_light_description": "Calcium is needed to maintain a healthy diet.",
+          "experts_suggest": "Youth and teens should take a minimum of 1,300 mg of calcium per day to ensure good bone health. A typical diet will contain 200 mg calcium from all non-dairy foods combined. Youth and teens should get an additional 800-1,000 mg from dairy products, calcium-enriched dairy alternatives or, if needed, from a supplement.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether calcium  reduces pain for youth who have JIA. There isn’t enough research yet. ",
+              "study_results": null,
+              "is_safe": "It is important not to exceed 3000 mg per day.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "You may wish to take Calcium according to instructions provided by your health care team or you pharmacist.",
+          "How_soon": "It may take up to a few months to feel better, but everybody is different.",
+          "Cost": "Calcium supplements cost money.",
+          "where": "It can be purchased over the counter in stores.",
+          "what_else_to_consider": null,
+          "learn_more": [
+            "https://teens.aboutkidshealth.ca/Article?contentid=2609&language=English&hub=jiateenhub",
+            "https://teenstakingcharge.carragroup.org/en/jiateen/Article?contentid=2375&language=English",
+            "https://www.aboutkidshealth.ca/Article?contentid=1081&language=English",
+            "https://www.jia.org.uk/diet-and-jia"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Vegetarian & Vegan Diets",
+          "key_name": "Vegetarian_Vegan_Diets",
+          "img": "38.jpg",
+          "category": ["Nutrition"],
+          "supervision": "hcp",
+          "evidence_level": 8,
+          "order_number": 35,
+          "description": "A diet without animal meat or animal products like eggs and dairy products.",
+          "traffic_light_level": 3,
+          "traffic_light_description": "Vegetarian and vegan diets are not mentioned in guidelines for youth with JIA. We are not sure if they work and they may be unhealthy because of a lack of nutrients. It is important to have a discussion about it with your health care team if you wish to use it.",
+          "experts_suggest": "Guidelines do not mention vegetarian and vegan diets for arthritis pain.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether a vegetarian or vegan diet reduces pain for youth who have JIA. There isn’t enough research yet. ",
+              "study_results": null,
+              "is_safe": "Some of these diets can be unhealthy, because of the lack of nutrients. They can lack in calories, which are important for growth, as well as protein, fatty acids, amino acids, iron, zinc, calcium and vitamins. Since vegan diets are deficient in omega-3 fatty acids, flaxseed, canola oils, walnuts and soy are recommended. Since they are often deficient in amino acids, quinoa, soy, and chia seeds can be added.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "Youth and caregivers can look online or talk to their health care team for ways to have a healthy diet and for specific information on this diet.",
+          "How_soon": "It is difficult to say because of the lack of research. Improvements may vary because everybody is different.",
+          "Cost": "Planning and preparing vegetarian diets may take time. Food costs can vary.",
+          "where": "You can find vegetarian and vegan diets online. Food can be purchased at local grocery stores.",
+          "what_else_to_consider": null,
+          "learn_more": [
+            "https://www.arthritis.org/living-with-arthritis/arthritis-diet/anti-inflammatory/vegan-and-vegetarian-diets.php"
+          ],
+          "videos": []
+        },
+        {
+          "treatment_name": "Gluten-Free Diets",
+          "key_name": "Gluten-Free_Diets",
+          "img": "39.jpg",
+          "category": ["Nutrition"],
+          "supervision": "hcp",
+          "evidence_level": 8,
+          "order_number": 36,
+          "description": "A diet without gluten. Gluten is a substance found in cereal grains. It is found in wheat products like bread, pasta and cereal.",
+          "traffic_light_level": 3,
+          "traffic_light_description": "Gluten-free diets are not mentioned in guidelines for youth with JIA. We are not sure if they work and they may be unhealthy because of added ingredients in foods. It is important to have a discussion about it with your health care team if you wish to use it.",
+          "experts_suggest": "Guidelines do not mention gluten-free diets for arthritis pain. This diet is recommended for people with celiac disease.",
+          "studies": [
+            {
+              "study_name": null,
+              "does_it_work": "Researchers need to explore whether a gluten-free diet reduces pain for youth who have JIA. There isn’t enough research yet. ",
+              "study_results": null,
+              "is_safe": "Some of the ingredients in processed gluten-free food can be unhealthy and people following this diet may lack in certain nutrients if they are not carefully planning such diets with a registered dietician.",
+              "should_believe_research": null,
+              "star_rating": null,
+              "star_rating_text": null,
+              "methods": null,
+              "treatments": null,
+              "results": null,
+              "reference": null,
+              "pubMed_link": null
+            }
+          ],
+          "how_to_use_treatment": "Youth and caregivers can look online or talk to their health care team for ways to have a healthy diet and for specific information on this diet.",
+          "How_soon": "It is difficult to say because of the lack of research. Improvements may vary because everybody is different.",
+          "Cost": "Planning and preparing gluten-free meals may take time. Gluten-free foods are usually more expensive.",
+          "where": "You can find gluten-free diets online. Food can be purchased at local grocery stores.",
+          "what_else_to_consider": null,
+          "learn_more": [],
+          "videos": []
+        }
+      ]
+    }
+  ]
+}

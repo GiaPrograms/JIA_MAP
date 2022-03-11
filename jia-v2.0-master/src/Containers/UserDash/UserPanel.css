@@ -1,0 +1,130 @@
+.user-container{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(245, 245, 245);
+   overflow-x: hidden;
+  }
+  
+  .user-body{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+.captions{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+
+.dropdown{
+  max-width: 256px;
+  position: relative;
+  left: 140px;
+  bottom: 8px;
+}
+
+.t1{
+  position: relative;
+  left: 450px;
+  bottom: 100px;
+}
+
+.t2{
+  position: relative;
+  left: 450px;
+  bottom: 400px;
+}
+
+.t3{
+  position: relative;
+  left: 450px;
+}
+
+.t4{
+  position: relative;
+  left: 460px;
+}
+
+.custom-tooltip{
+  border: 1px solid #000000;
+  background-color: rgba(255, 255, 255);
+}
+
+.legend{
+  position: relative;
+  left: 1000px;
+  bottom: 450px;
+  overflow-x: hidden;
+  /* border: 1px solid #000000; */
+}
+
+.legend2{
+  position: relative;
+  left: 1000px;
+  bottom: 750px;
+  overflow-x: hidden;
+  /* border: 1px solid #000000; */
+}
+
+.emojis{
+  position: relative;
+  left: 30px;
+}
+
+.levels{
+  position: relative;
+  left: 65px;
+  bottom: 120px;
+}
+
+.chooseTimes1{
+  position: relative;
+  left: 80px;
+  bottom: 55px;
+}
+
+.chooseTimes2{
+  position: relative;
+  left: 310px;
+  bottom: 95px;
+}
+
+.spacing{
+  word-spacing: 200px;
+}
+
+.button{
+  position: relative;
+  left: 540px;
+  bottom: 135px;
+}
+
+.button2{
+  position: relative;
+  left: 300px;
+  bottom: 45px;
+}
+
+.chart{
+  bottom: 100px;
+}
+
+.chart2{
+  bottom: 400px;
+}
+
+.bar{
+  left: 5px;
+}
+
+Button.load-btn{
+  background-color: rgba(241, 90, 43, 0.9);
+  border: none;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.225);
+}
+
+Button.load-btn:hover{
+  text-decoration: none;
+  background-color: rgba(241, 90, 43, 0.9);
+}

@@ -1,0 +1,31 @@
+.page-not-found{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--primary-colour);
+  height: 100vh;
+}
+
+.page-not-found h1{
+  color: white;
+}
+
+.page-not-found p{
+  margin-top: 2rem;
+  font-weight: 500;
+}
+
+.page-not-found a,
+.page-not-found a:hover{
+  text-decoration: none;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--secondary-colour);
+  border-radius: 6px;
+}
+
+
+.page-not-found a:hover{
+  background-color: var(--secondary-colour-hover);
+}

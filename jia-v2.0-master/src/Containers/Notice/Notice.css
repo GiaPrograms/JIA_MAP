@@ -1,0 +1,6 @@
+.notice-container>h5{
+    display: grid;
+    position: relative;
+    text-align: center;
+    bottom: 50px;
+}

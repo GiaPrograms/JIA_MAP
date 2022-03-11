@@ -1,0 +1,31 @@
+{"options":[
+
+    {
+        "id":"1",
+        "title":"You have juvenile idiopathic arthritis (JIA)",
+        "fr_title":"Vous êtes atteint(e) d’arthrite juvénile idiopathique (AJI)",
+        "description":"Juvenile idiopathic arthritis or JIA causes joint pain, stiffness and swelling. It limits young people from doing what they want and need to do like playing sports, hanging out with friends, going to school and having a job.",
+        "fr_description":"L’arthrite juvénile idiopathique ou AJI provoque des douleurs articulaires, de la raideur et de l’enflure. Ces symptômes empêchent les jeunes de faire ce qu’ils doivent faire et ce qu’ils veulent faire, comme pratiquer un sport, passer du temps avec des amis, aller à l’école et avoir un emploi.",
+        "img": "c5.jpg",
+        "alt": "main image one"
+    },
+    {
+        "id":"2",
+        "title":"You still have pain even if you take arthritis medications",
+        "fr_title": "Vous ressentez encore de la douleur même avec vos médicaments contre l’arthrite", 
+        "description":"You may take medication that can control arthritis, such as biologic agents, but you may still have pain.",
+        "fr_description":"Vous pouvez ressentir de la douleur même si vous prenez des médicaments pour contrôler votre arthrite, comme les agents biologiques.",
+        "img": "c4.jpg",
+        "alt": "main image two"
+    },
+    {
+        "id":"3",
+        "title":"You want to find ways to manage your pain",
+        "fr_title": "Vous cherchez des moyens de soulager votre douleur",
+        "description":"This decision aid will help you find other treatments that you can use when you have pain and talk about it with your health care team.",
+        "fr_description":"Cet outil d’aide à la décision vous aidera à trouver d’autres traitements que vous pouvez utiliser si vous avez de la douleur, et à en parler avec votre équipe soignante.",
+        "img": "c3.jpg",
+        "alt": "main image three"
+    }
+    ]
+}

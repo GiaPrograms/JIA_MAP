@@ -1,0 +1,33 @@
+.part{
+    fill:rgb(252, 27, 27) !important;
+}
+.body-parts-container{
+    display: flex;
+    justify-content: center;
+}
+.bParts{
+    cursor: pointer;
+}
+.bParts:hover{
+    fill: rgba(252, 27, 27, 0.4);
+}
+
+#Green{
+    fill:rgb(0, 255, 0)
+  }
+  #Red{
+    fill:rgb(252, 27, 27)
+  }
+  #Yellow{
+    fill:rgb(255, 182, 23)
+  }
+.light{
+    animation: light 2s linear infinite;
+}
+@keyframes light{
+    0%{opacity:.25;}
+    25%{opacity: .5;}
+    50%{opacity: 1;}
+    75%{opacity: .5;}
+    100%{opacity: .25;}
+}

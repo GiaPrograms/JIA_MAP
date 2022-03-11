@@ -1,0 +1,21 @@
+.circle-radio-group-summary {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 65%;
+    margin: 0 auto;
+    left: 10px;
+    top: 20px;
+}
+
+.circle-radio-group-summary-no-zero {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 56%;
+    margin: 0 auto;
+    left: 35px;
+    top: 20px;
+}

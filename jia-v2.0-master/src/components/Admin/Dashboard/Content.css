@@ -1,0 +1,16 @@
+.dashboard-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem;
+}
+
+.graph-container{
+  background-color: white;
+  margin: 1rem;
+  /* padding: 1rem; */
+  box-shadow: 0 12px 24px 0 hsl(220, 15%, 88%), 0 3px 9px 0 hsl(220, 15%, 94%);
+}
+
+.graph-container h1 {
+  padding: 0.5rem 1rem;
+}
